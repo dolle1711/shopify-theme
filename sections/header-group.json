@@ -13,7 +13,9 @@
           }
         }
       },
-      "block_order": ["message-0"],
+      "block_order": [
+        "message-0"
+      ],
       "disabled": true,
       "settings": {
         "color_scheme": "color-accent-2",
@@ -50,13 +52,16 @@
           }
         }
       },
-      "block_order": ["mega-menu-0", "mega-menu-1"],
+      "block_order": [
+        "mega-menu-0",
+        "mega-menu-1"
+      ],
       "settings": {
         "color_scheme": "",
         "enable_drawer": false,
         "enable_sticky_header": true,
         "logo_position": "middle-left",
-        "logo": "shopify://shop_images/logo_final_1.png",
+        "logo": "shopify:\/\/shop_images\/logo_final_1.png",
         "logo_width": 120,
         "logo_width_mobile": 100,
         "menu": "main-menu",
@@ -66,10 +71,13 @@
         "enable_contact": true,
         "enable_social": true,
         "enable_transparent": false,
-        "logo_transparent": "shopify://shop_images/Bag_print.png",
+        "logo_transparent": "shopify:\/\/shop_images\/Bag_print.png",
         "transparent_text_color": "#ffffff"
       }
     }
   },
-  "order": ["announcement-bar", "header"]
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
 }
