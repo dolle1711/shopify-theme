@@ -1,1 +1,516 @@
-{"sections":{"breadcrumb":{"type":"breadcrumb","settings":{"color_scheme":""}},"main":{"type":"main-page","disabled":true,"settings":{"color_scheme":"","show_page_title":true,"remove_padding_top":true,"remove_padding_bottom":false}},"00c22c82-ac0c-4485-a35d-f66598762ec7":{"type":"hero-image-with-text","custom_css":[".mr-minus{width: inherit}"],"settings":{"color_scheme":"","content_align":"ta-left","remove_padding_top":false,"remove_padding_bottom":false,"subheading":"","heading":"Dorhe Statements","description":"<p>Some Detailed brief abour Dorhe statements<\/p>","hero_image":"shopify:\/\/shop_images\/MAD00360_1.jpg","image_ratio":"2\/3","button_main_text":"","button_main_link":"","button_sub_text":"","button_sub_link":"","badge_text":"Scroll to Explore","badge_color":"color-accent-1","badge_position":"p-badge--bottom-right","badge_shape":"badge--asterisk","enable_collections":false,"heading_collections":"Our collections","collection_list":[],"enable_view_all":false,"button_text":"See all collections","show_navigation":true}},"6319120e-97ca-44be-8c3d-d33300af1cb9":{"type":"featured-product","blocks":{"template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-vendor-1":{"type":"vendor","settings":{}},"template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-title-1":{"type":"title","settings":{"enable_share":true}},"template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-variants-1":{"type":"variants","settings":{"show_stock_number":true,"variant_picker_type":"button","enable_variant_swatches":true}},"template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-price-1":{"type":"price","settings":{"show_sale_badge":true,"show_tax_and_shipping_policy":false}},"template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-purchasing-1":{"type":"purchasing","settings":{"show_quantity_selector":"always","show_dynamic_checkout_buttons":true}}},"block_order":["template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-vendor-1","template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-title-1","template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-variants-1","template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-price-1","template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-purchasing-1"],"disabled":true,"settings":{"color_scheme":"","subheading":"","heading":"Our statement pieces","description":"","product":"dreamweaver-braided-corset-jacket","media_ratio":"1\/1","thumbnails_ratio":"1\/1","show_paginations":true,"show_navigation":true,"remove_padding_top":false,"remove_padding_bottom":false,"badge_text":"","badge_color":"color-accent-2","badge_position":"p-badge--top-right","badge_shape":"badge--asterisk"}},"84f4caeb-4bd3-44ba-9588-bca28e39aafb":{"type":"featured-product","blocks":{"template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-vendor-1":{"type":"vendor","settings":{}},"template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-title-1":{"type":"title","settings":{"enable_share":true}},"template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-variants-1":{"type":"variants","settings":{"show_stock_number":true,"variant_picker_type":"button","enable_variant_swatches":true}},"template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-price-1":{"type":"price","settings":{"show_sale_badge":false,"show_tax_and_shipping_policy":false}},"template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-purchasing-1":{"type":"purchasing","settings":{"show_quantity_selector":"always","show_dynamic_checkout_buttons":true}}},"block_order":["template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-vendor-1","template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-title-1","template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-variants-1","template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-price-1","template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-purchasing-1"],"disabled":true,"settings":{"color_scheme":"","subheading":"","heading":"","description":"","product":"midnight-mosaic-leather-patchwork-jacket","media_ratio":"1\/1","thumbnails_ratio":"1\/1","show_paginations":true,"show_navigation":true,"remove_padding_top":false,"remove_padding_bottom":false,"badge_text":"Specials","badge_color":"color-accent-1","badge_position":"p-badge--top-right","badge_shape":"badge--asterisk"}},"731a3027-59f3-4dc3-86dc-72d7bbf2d3ef":{"type":"featured-product","blocks":{"template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-vendor-1":{"type":"vendor","settings":{}},"template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-title-1":{"type":"title","settings":{"enable_share":true}},"template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-variants-1":{"type":"variants","settings":{"show_stock_number":true,"variant_picker_type":"button","enable_variant_swatches":true}},"template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-price-1":{"type":"price","settings":{"show_sale_badge":true,"show_tax_and_shipping_policy":false}},"template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-purchasing-1":{"type":"purchasing","settings":{"show_quantity_selector":"always","show_dynamic_checkout_buttons":true}}},"block_order":["template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-vendor-1","template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-title-1","template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-variants-1","template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-price-1","template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-purchasing-1"],"disabled":true,"settings":{"color_scheme":"","subheading":"","heading":"","description":"","product":"top-grey-wash-texture-front-chain","media_ratio":"1\/1","thumbnails_ratio":"1\/1","show_paginations":true,"show_navigation":true,"remove_padding_top":false,"remove_padding_bottom":false,"badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--top-right","badge_shape":"badge--star"}},"6d319135-9b02-447a-8282-9c35b009cbed":{"type":"content-collage","blocks":{"template--21624268521780__6d319135-9b02-447a-8282-9c35b009cbed-collection-1":{"type":"collection","settings":{"collection":"artsy-street-vibes","show_number_of_products":true,"collection_overlay_opacity":30,"collection_mask_overlay_color":"#000000","collection_content_overlay_color":"#ffffff"}},"40bc7629-d99b-4dd0-8895-82c7ebac65b0":{"type":"collection","settings":{"collection":"patchwork-harmony","show_number_of_products":true,"collection_overlay_opacity":30,"collection_mask_overlay_color":"#000000","collection_content_overlay_color":"#ffffff"}},"04bae858-4982-487c-b6c9-a0a4b496f4d4":{"type":"collection","settings":{"collection":"urban-muse","show_number_of_products":true,"collection_overlay_opacity":30,"collection_mask_overlay_color":"#000000","collection_content_overlay_color":"#ffffff"}}},"block_order":["template--21624268521780__6d319135-9b02-447a-8282-9c35b009cbed-collection-1","40bc7629-d99b-4dd0-8895-82c7ebac65b0","04bae858-4982-487c-b6c9-a0a4b496f4d4"],"disabled":true,"settings":{"color_scheme":"","subheading":"Checkout these","heading":"Our Collections","description":"","enable_full_width_content":false,"content_alignment":"ta-left","items_ordering":"equal","enable_stacked_layout":true,"remove_padding_top":false,"remove_padding_bottom":false,"image_ratio":"1\/1","show_items_button":false,"badge_text":"You will love them","badge_color":"color-accent-1","badge_position":"p-badge--bottom-right","badge_shape":"badge--asterisk"}},"603fd3b8-e448-423c-9f17-71a181c394a0":{"type":"content-collage","blocks":{"template--21624268521780__603fd3b8-e448-423c-9f17-71a181c394a0-product-1":{"type":"product","settings":{"product":"dreamweaver-braided-corset-jacket","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#ffffff"}},"5ac6d287-2f73-4006-b9e6-4ddc1239412e":{"type":"product","settings":{"product":"midnight-mosaic-leather-patchwork-jacket","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#ffffff"}},"18f3a943-a1d2-420f-be13-83e3624916e8":{"type":"product","settings":{"product":"nightfall-diamond-heartstrings-crop-jacket","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#FFFFFF"}}},"block_order":["template--21624268521780__603fd3b8-e448-423c-9f17-71a181c394a0-product-1","5ac6d287-2f73-4006-b9e6-4ddc1239412e","18f3a943-a1d2-420f-be13-83e3624916e8"],"settings":{"color_scheme":"","subheading":"","heading":"","description":"","enable_full_width_content":false,"content_alignment":"ta-left","items_ordering":"equal","enable_stacked_layout":true,"remove_padding_top":false,"remove_padding_bottom":true,"image_ratio":"4\/5","show_items_button":true,"badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--bottom-right","badge_shape":"badge--star"}},"dd9ba2c3-30d6-4ad1-a0df-db39e4d553db":{"type":"content-collage","blocks":{"template--21624268521780__dd9ba2c3-30d6-4ad1-a0df-db39e4d553db-product-1":{"type":"product","settings":{"product":"rebellion-stitched-starlit-denims","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#ffffff"}},"50d189e1-b613-42e3-83ca-f210e195b9b1":{"type":"product","settings":{"product":"boho-chic-frida-flare-jeans","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#ffffff"}},"86147682-51fe-48d7-823d-db177dc934a5":{"type":"product","settings":{"product":"decon-levis-textured-skirt","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#FFFFFF"}}},"block_order":["template--21624268521780__dd9ba2c3-30d6-4ad1-a0df-db39e4d553db-product-1","50d189e1-b613-42e3-83ca-f210e195b9b1","86147682-51fe-48d7-823d-db177dc934a5"],"settings":{"color_scheme":"","subheading":"","heading":"","description":"","enable_full_width_content":false,"content_alignment":"ta-left","items_ordering":"equal","enable_stacked_layout":true,"remove_padding_top":false,"remove_padding_bottom":true,"image_ratio":"4\/5","show_items_button":true,"badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--bottom-right","badge_shape":"badge--star"}},"db39f3fa-38d1-42da-aecd-49bfe4cd26e7":{"type":"content-collage","blocks":{"d8a2a870-8836-4dbb-9fae-663a572fd4cf":{"type":"product","settings":{"product":"decon-womens-threaded-denim","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#ffffff"}},"0a4e2a87-314a-4f15-a7e2-a15447b77a99":{"type":"product","settings":{"product":"jacket-crop-patch-lady","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#ffffff"}},"0fda1652-4689-4fbf-aed3-4d2b4256e158":{"type":"product","settings":{"product":"jacket-dark-frida-screen-printed","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#FFFFFF"}}},"block_order":["d8a2a870-8836-4dbb-9fae-663a572fd4cf","0a4e2a87-314a-4f15-a7e2-a15447b77a99","0fda1652-4689-4fbf-aed3-4d2b4256e158"],"settings":{"color_scheme":"","subheading":"","heading":"","description":"","enable_full_width_content":false,"content_alignment":"ta-left","items_ordering":"equal","enable_stacked_layout":true,"remove_padding_top":false,"remove_padding_bottom":true,"image_ratio":"4\/5","show_items_button":true,"badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--bottom-right","badge_shape":"badge--star"}},"f998a56c-e322-48dd-b4cd-f1c22e63d98a":{"type":"content-collage","blocks":{"template--21624268521780__f998a56c-e322-48dd-b4cd-f1c22e63d98a-product-1":{"type":"product","settings":{"product":"jacket-baba-painted","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#ffffff"}},"4be45855-da12-4e5a-bde0-97dd8a6d9887":{"type":"product","settings":{"product":"jacket-abstract-painted-black","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#ffffff"}},"b9776e81-39c7-4a46-a6ba-cbda6617a94a":{"type":"product","settings":{"product":"jacket-dark-goth","product_overlay_opacity":30,"product_mask_overlay_color":"#000000","product_content_overlay_color":"#FFFFFF"}}},"block_order":["template--21624268521780__f998a56c-e322-48dd-b4cd-f1c22e63d98a-product-1","4be45855-da12-4e5a-bde0-97dd8a6d9887","b9776e81-39c7-4a46-a6ba-cbda6617a94a"],"settings":{"color_scheme":"","subheading":"","heading":"","description":"","enable_full_width_content":false,"content_alignment":"ta-left","items_ordering":"equal","enable_stacked_layout":true,"remove_padding_top":false,"remove_padding_bottom":false,"image_ratio":"4\/5","show_items_button":true,"badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--bottom-right","badge_shape":"badge--star"}}},"order":["breadcrumb","main","00c22c82-ac0c-4485-a35d-f66598762ec7","6319120e-97ca-44be-8c3d-d33300af1cb9","84f4caeb-4bd3-44ba-9588-bca28e39aafb","731a3027-59f3-4dc3-86dc-72d7bbf2d3ef","6d319135-9b02-447a-8282-9c35b009cbed","603fd3b8-e448-423c-9f17-71a181c394a0","dd9ba2c3-30d6-4ad1-a0df-db39e4d553db","db39f3fa-38d1-42da-aecd-49bfe4cd26e7","f998a56c-e322-48dd-b4cd-f1c22e63d98a"]}
+{
+  "sections": {
+    "breadcrumb": { "type": "breadcrumb", "settings": { "color_scheme": "" } },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_page_title": true,
+        "remove_padding_top": true,
+        "remove_padding_bottom": false
+      }
+    },
+    "00c22c82-ac0c-4485-a35d-f66598762ec7": {
+      "type": "hero-image-with-text",
+      "custom_css": [".mr-minus{width: inherit}"],
+      "settings": {
+        "color_scheme": "",
+        "content_align": "ta-left",
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "subheading": "",
+        "heading": "Dorhe Statements",
+        "description": "<p>Some Detailed brief abour Dorhe statements</p>",
+        "hero_image": "shopify://shop_images/MAD00360_1.jpg",
+        "image_ratio": "2/3",
+        "button_main_text": "",
+        "button_main_link": "",
+        "button_sub_text": "",
+        "button_sub_link": "",
+        "badge_text": "Scroll to Explore",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--asterisk",
+        "enable_collections": false,
+        "heading_collections": "Our collections",
+        "collection_list": [],
+        "enable_view_all": false,
+        "button_text": "See all collections",
+        "show_navigation": true
+      }
+    },
+    "6319120e-97ca-44be-8c3d-d33300af1cb9": {
+      "type": "featured-product",
+      "blocks": {
+        "template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-vendor-1": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-title-1": {
+          "type": "title",
+          "settings": { "enable_share": true }
+        },
+        "template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-variants-1": {
+          "type": "variants",
+          "settings": {
+            "show_stock_number": true,
+            "variant_picker_type": "button",
+            "enable_variant_swatches": true
+          }
+        },
+        "template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-price-1": {
+          "type": "price",
+          "settings": {
+            "show_sale_badge": true,
+            "show_tax_and_shipping_policy": false
+          }
+        },
+        "template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-purchasing-1": {
+          "type": "purchasing",
+          "settings": {
+            "show_quantity_selector": "always",
+            "show_dynamic_checkout_buttons": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-vendor-1",
+        "template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-title-1",
+        "template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-variants-1",
+        "template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-price-1",
+        "template--21624268521780__6319120e-97ca-44be-8c3d-d33300af1cb9-purchasing-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "Our statement pieces",
+        "description": "",
+        "product": "dreamweaver-braided-corset-jacket",
+        "media_ratio": "1/1",
+        "thumbnails_ratio": "1/1",
+        "show_paginations": true,
+        "show_navigation": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "badge_text": "",
+        "badge_color": "color-accent-2",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--asterisk"
+      }
+    },
+    "84f4caeb-4bd3-44ba-9588-bca28e39aafb": {
+      "type": "featured-product",
+      "blocks": {
+        "template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-vendor-1": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-title-1": {
+          "type": "title",
+          "settings": { "enable_share": true }
+        },
+        "template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-variants-1": {
+          "type": "variants",
+          "settings": {
+            "show_stock_number": true,
+            "variant_picker_type": "button",
+            "enable_variant_swatches": true
+          }
+        },
+        "template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-price-1": {
+          "type": "price",
+          "settings": {
+            "show_sale_badge": false,
+            "show_tax_and_shipping_policy": false
+          }
+        },
+        "template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-purchasing-1": {
+          "type": "purchasing",
+          "settings": {
+            "show_quantity_selector": "always",
+            "show_dynamic_checkout_buttons": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-vendor-1",
+        "template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-title-1",
+        "template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-variants-1",
+        "template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-price-1",
+        "template--21624268521780__84f4caeb-4bd3-44ba-9588-bca28e39aafb-purchasing-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "",
+        "description": "",
+        "product": "midnight-mosaic-leather-patchwork-jacket",
+        "media_ratio": "1/1",
+        "thumbnails_ratio": "1/1",
+        "show_paginations": true,
+        "show_navigation": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "badge_text": "Specials",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--asterisk"
+      }
+    },
+    "731a3027-59f3-4dc3-86dc-72d7bbf2d3ef": {
+      "type": "featured-product",
+      "blocks": {
+        "template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-vendor-1": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-title-1": {
+          "type": "title",
+          "settings": { "enable_share": true }
+        },
+        "template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-variants-1": {
+          "type": "variants",
+          "settings": {
+            "show_stock_number": true,
+            "variant_picker_type": "button",
+            "enable_variant_swatches": true
+          }
+        },
+        "template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-price-1": {
+          "type": "price",
+          "settings": {
+            "show_sale_badge": true,
+            "show_tax_and_shipping_policy": false
+          }
+        },
+        "template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-purchasing-1": {
+          "type": "purchasing",
+          "settings": {
+            "show_quantity_selector": "always",
+            "show_dynamic_checkout_buttons": true
+          }
+        }
+      },
+      "block_order": [
+        "template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-vendor-1",
+        "template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-title-1",
+        "template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-variants-1",
+        "template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-price-1",
+        "template--21624268521780__731a3027-59f3-4dc3-86dc-72d7bbf2d3ef-purchasing-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "",
+        "description": "",
+        "product": "top-grey-wash-texture-front-chain",
+        "media_ratio": "1/1",
+        "thumbnails_ratio": "1/1",
+        "show_paginations": true,
+        "show_navigation": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "6d319135-9b02-447a-8282-9c35b009cbed": {
+      "type": "content-collage",
+      "blocks": {
+        "template--21624268521780__6d319135-9b02-447a-8282-9c35b009cbed-collection-1": {
+          "type": "collection",
+          "settings": {
+            "collection": "artsy-street-vibes",
+            "show_number_of_products": true,
+            "collection_overlay_opacity": 30,
+            "collection_mask_overlay_color": "#000000",
+            "collection_content_overlay_color": "#ffffff"
+          }
+        },
+        "40bc7629-d99b-4dd0-8895-82c7ebac65b0": {
+          "type": "collection",
+          "settings": {
+            "collection": "patchwork-harmony",
+            "show_number_of_products": true,
+            "collection_overlay_opacity": 30,
+            "collection_mask_overlay_color": "#000000",
+            "collection_content_overlay_color": "#ffffff"
+          }
+        },
+        "04bae858-4982-487c-b6c9-a0a4b496f4d4": {
+          "type": "collection",
+          "settings": {
+            "collection": "urban-muse",
+            "show_number_of_products": true,
+            "collection_overlay_opacity": 30,
+            "collection_mask_overlay_color": "#000000",
+            "collection_content_overlay_color": "#ffffff"
+          }
+        }
+      },
+      "block_order": [
+        "template--21624268521780__6d319135-9b02-447a-8282-9c35b009cbed-collection-1",
+        "40bc7629-d99b-4dd0-8895-82c7ebac65b0",
+        "04bae858-4982-487c-b6c9-a0a4b496f4d4"
+      ],
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "subheading": "Checkout these",
+        "heading": "Our Collections",
+        "description": "",
+        "enable_full_width_content": false,
+        "content_alignment": "ta-left",
+        "items_ordering": "equal",
+        "enable_stacked_layout": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "image_ratio": "1/1",
+        "show_items_button": false,
+        "badge_text": "You will love them",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--asterisk"
+      }
+    },
+    "603fd3b8-e448-423c-9f17-71a181c394a0": {
+      "type": "content-collage",
+      "blocks": {
+        "template--21624268521780__603fd3b8-e448-423c-9f17-71a181c394a0-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "dreamweaver-braided-corset-jacket",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#ffffff"
+          }
+        },
+        "5ac6d287-2f73-4006-b9e6-4ddc1239412e": {
+          "type": "product",
+          "settings": {
+            "product": "midnight-mosaic-leather-patchwork-jacket",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#ffffff"
+          }
+        },
+        "18f3a943-a1d2-420f-be13-83e3624916e8": {
+          "type": "product",
+          "settings": {
+            "product": "nightfall-diamond-heartstrings-crop-jacket",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "template--21624268521780__603fd3b8-e448-423c-9f17-71a181c394a0-product-1",
+        "5ac6d287-2f73-4006-b9e6-4ddc1239412e",
+        "18f3a943-a1d2-420f-be13-83e3624916e8"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "",
+        "description": "",
+        "enable_full_width_content": false,
+        "content_alignment": "ta-left",
+        "items_ordering": "equal",
+        "enable_stacked_layout": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": true,
+        "image_ratio": "4/5",
+        "show_items_button": true,
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "dd9ba2c3-30d6-4ad1-a0df-db39e4d553db": {
+      "type": "content-collage",
+      "blocks": {
+        "template--21624268521780__dd9ba2c3-30d6-4ad1-a0df-db39e4d553db-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "rebellion-stitched-starlit-denims",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#ffffff"
+          }
+        },
+        "50d189e1-b613-42e3-83ca-f210e195b9b1": {
+          "type": "product",
+          "settings": {
+            "product": "boho-chic-frida-flare-jeans",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#ffffff"
+          }
+        },
+        "86147682-51fe-48d7-823d-db177dc934a5": {
+          "type": "product",
+          "settings": {
+            "product": "decon-levis-textured-skirt",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "template--21624268521780__dd9ba2c3-30d6-4ad1-a0df-db39e4d553db-product-1",
+        "50d189e1-b613-42e3-83ca-f210e195b9b1",
+        "86147682-51fe-48d7-823d-db177dc934a5"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "",
+        "description": "",
+        "enable_full_width_content": false,
+        "content_alignment": "ta-left",
+        "items_ordering": "equal",
+        "enable_stacked_layout": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": true,
+        "image_ratio": "4/5",
+        "show_items_button": true,
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "db39f3fa-38d1-42da-aecd-49bfe4cd26e7": {
+      "type": "content-collage",
+      "blocks": {
+        "d8a2a870-8836-4dbb-9fae-663a572fd4cf": {
+          "type": "product",
+          "settings": {
+            "product": "decon-womens-threaded-denim",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#ffffff"
+          }
+        },
+        "0a4e2a87-314a-4f15-a7e2-a15447b77a99": {
+          "type": "product",
+          "settings": {
+            "product": "jacket-crop-patch-lady",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#ffffff"
+          }
+        },
+        "0fda1652-4689-4fbf-aed3-4d2b4256e158": {
+          "type": "product",
+          "settings": {
+            "product": "jacket-dark-frida-screen-printed",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "d8a2a870-8836-4dbb-9fae-663a572fd4cf",
+        "0a4e2a87-314a-4f15-a7e2-a15447b77a99",
+        "0fda1652-4689-4fbf-aed3-4d2b4256e158"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "",
+        "description": "",
+        "enable_full_width_content": false,
+        "content_alignment": "ta-left",
+        "items_ordering": "equal",
+        "enable_stacked_layout": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": true,
+        "image_ratio": "4/5",
+        "show_items_button": true,
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "f998a56c-e322-48dd-b4cd-f1c22e63d98a": {
+      "type": "content-collage",
+      "blocks": {
+        "template--21624268521780__f998a56c-e322-48dd-b4cd-f1c22e63d98a-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "jacket-baba-painted",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#ffffff"
+          }
+        },
+        "4be45855-da12-4e5a-bde0-97dd8a6d9887": {
+          "type": "product",
+          "settings": {
+            "product": "jacket-abstract-painted-black",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#ffffff"
+          }
+        },
+        "b9776e81-39c7-4a46-a6ba-cbda6617a94a": {
+          "type": "product",
+          "settings": {
+            "product": "jacket-dark-goth",
+            "product_overlay_opacity": 30,
+            "product_mask_overlay_color": "#000000",
+            "product_content_overlay_color": "#FFFFFF"
+          }
+        }
+      },
+      "block_order": [
+        "template--21624268521780__f998a56c-e322-48dd-b4cd-f1c22e63d98a-product-1",
+        "4be45855-da12-4e5a-bde0-97dd8a6d9887",
+        "b9776e81-39c7-4a46-a6ba-cbda6617a94a"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "",
+        "description": "",
+        "enable_full_width_content": false,
+        "content_alignment": "ta-left",
+        "items_ordering": "equal",
+        "enable_stacked_layout": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "image_ratio": "4/5",
+        "show_items_button": true,
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--star"
+      }
+    }
+  },
+  "order": [
+    "breadcrumb",
+    "main",
+    "00c22c82-ac0c-4485-a35d-f66598762ec7",
+    "6319120e-97ca-44be-8c3d-d33300af1cb9",
+    "84f4caeb-4bd3-44ba-9588-bca28e39aafb",
+    "731a3027-59f3-4dc3-86dc-72d7bbf2d3ef",
+    "6d319135-9b02-447a-8282-9c35b009cbed",
+    "603fd3b8-e448-423c-9f17-71a181c394a0",
+    "dd9ba2c3-30d6-4ad1-a0df-db39e4d553db",
+    "db39f3fa-38d1-42da-aecd-49bfe4cd26e7",
+    "f998a56c-e322-48dd-b4cd-f1c22e63d98a"
+  ]
+}

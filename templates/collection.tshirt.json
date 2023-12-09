@@ -1,1 +1,68 @@
-{"sections":{"1864cd1c-cd1a-4748-aca4-35c8cbab3cd1":{"type":"image-banner","blocks":{"template--21696552567092__1864cd1c-cd1a-4748-aca4-35c8cbab3cd1-content-1":{"type":"content","settings":{"content_position":"center-xs top-xs ta-left","subheading":"SHOP","heading":"DORHE TSHIRTs","description":"","primary_button_label":"","primary_button_link":"","secondary_button_label":"","secondary_button_link":""}}},"block_order":["template--21696552567092__1864cd1c-cd1a-4748-aca4-35c8cbab3cd1-content-1"],"settings":{"enable_large_heading":false,"color_scheme":"","section_overlay_opacity":60,"section_mask_overlay_color":"#000000","section_content_overlay_color":"#FFFFFF","height_desktop":"100","height_mobile":"70","desktop_background_image":"shopify:\/\/shop_images\/MAD00209.jpg","badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--top-right","badge_shape":"badge--star"}},"header":{"type":"main-collection-header","disabled":true,"settings":{"color_scheme":"","show_collection_image":true,"show_description":true,"remove_padding_top":true,"remove_padding_bottom":true}},"main":{"type":"main-collection-products","settings":{"color_scheme":"","items_per_row_on_desktop_horizontal":"3","items_per_row_on_desktop_vertical":"3","items_per_row_on_tablet":"3","items_per_row_on_mobile":"1","item_per_page":"36","remove_padding_top":false,"remove_padding_bottom":false,"enable_filtering":true,"expand_all_filter":true,"enable_sort":true,"desktop_filter_and_sort_layout":"horizontal"}}},"order":["1864cd1c-cd1a-4748-aca4-35c8cbab3cd1","header","main"]}
+{
+  "sections": {
+    "1864cd1c-cd1a-4748-aca4-35c8cbab3cd1": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21696552567092__1864cd1c-cd1a-4748-aca4-35c8cbab3cd1-content-1": {
+          "type": "content",
+          "settings": {
+            "content_position": "center-xs top-xs ta-left",
+            "subheading": "SHOP",
+            "heading": "DORHE TSHIRTs",
+            "description": "",
+            "primary_button_label": "",
+            "primary_button_link": "",
+            "secondary_button_label": "",
+            "secondary_button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21696552567092__1864cd1c-cd1a-4748-aca4-35c8cbab3cd1-content-1"
+      ],
+      "settings": {
+        "enable_large_heading": false,
+        "color_scheme": "",
+        "section_overlay_opacity": 60,
+        "section_mask_overlay_color": "#000000",
+        "section_content_overlay_color": "#FFFFFF",
+        "height_desktop": "100",
+        "height_mobile": "70",
+        "desktop_background_image": "shopify://shop_images/MAD00209.jpg",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "header": {
+      "type": "main-collection-header",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_collection_image": true,
+        "show_description": true,
+        "remove_padding_top": true,
+        "remove_padding_bottom": true
+      }
+    },
+    "main": {
+      "type": "main-collection-products",
+      "settings": {
+        "color_scheme": "",
+        "items_per_row_on_desktop_horizontal": "3",
+        "items_per_row_on_desktop_vertical": "3",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "1",
+        "item_per_page": "36",
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "enable_filtering": true,
+        "expand_all_filter": true,
+        "enable_sort": true,
+        "desktop_filter_and_sort_layout": "horizontal"
+      }
+    }
+  },
+  "order": ["1864cd1c-cd1a-4748-aca4-35c8cbab3cd1", "header", "main"]
+}

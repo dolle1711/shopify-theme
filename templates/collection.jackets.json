@@ -1,1 +1,101 @@
-{"sections":{"723c1096-faa8-49ef-a973-05e6978a2653":{"type":"image-banner","blocks":{"template--21696556564788__723c1096-faa8-49ef-a973-05e6978a2653-content-1":{"type":"content","settings":{"content_position":"center-xs top-xs ta-left","subheading":"SHOP","heading":"DORHE JACKETS","description":"","primary_button_label":"","primary_button_link":"","secondary_button_label":"","secondary_button_link":""}}},"block_order":["template--21696556564788__723c1096-faa8-49ef-a973-05e6978a2653-content-1"],"settings":{"enable_large_heading":false,"color_scheme":"","section_overlay_opacity":79,"section_mask_overlay_color":"#000000","section_content_overlay_color":"#FFFFFF","height_desktop":"100","height_mobile":"70","desktop_background_image":"shopify:\/\/shop_images\/MAD00060_ac53bb76-e2d5-4409-a924-09ecd4364028.jpg","badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--top-right","badge_shape":"badge--star"}},"68937f53-0866-4efa-81a2-63e1b2b0f153":{"type":"image-with-text","disabled":true,"custom_css":["@media (orientation: landscape) {.s-header--special {padding-top: 0; }}"],"settings":{"color_scheme":"","enable_large_heading":true,"content_alignment":"ta-left","remove_padding_top":true,"remove_padding_bottom":true,"primary_image":"shopify:\/\/shop_images\/MAD09736.jpg","primary_image_ratio":"landscape","secondary_image_ratio":"square","subheading":"","heading":"Shop jackets","description":"","button_main_text":"","button_main_link":"","button_sub_text":"","button_sub_link":"","badge_text":"Trend Setters","badge_color":"color-accent-1","badge_position":"p-badge--bottom-right","badge_shape":"badge--asterisk"}},"header":{"type":"main-collection-header","disabled":true,"settings":{"color_scheme":"","show_collection_image":true,"show_description":true,"remove_padding_top":true,"remove_padding_bottom":true}},"main":{"type":"main-collection-products","settings":{"color_scheme":"","items_per_row_on_desktop_horizontal":"4","items_per_row_on_desktop_vertical":"3","items_per_row_on_tablet":"3","items_per_row_on_mobile":"1","item_per_page":"24","remove_padding_top":false,"remove_padding_bottom":false,"enable_filtering":true,"expand_all_filter":true,"enable_sort":true,"desktop_filter_and_sort_layout":"horizontal"}}},"order":["723c1096-faa8-49ef-a973-05e6978a2653","68937f53-0866-4efa-81a2-63e1b2b0f153","header","main"]}
+{
+  "sections": {
+    "723c1096-faa8-49ef-a973-05e6978a2653": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21696556564788__723c1096-faa8-49ef-a973-05e6978a2653-content-1": {
+          "type": "content",
+          "settings": {
+            "content_position": "center-xs top-xs ta-left",
+            "subheading": "SHOP",
+            "heading": "DORHE JACKETS",
+            "description": "",
+            "primary_button_label": "",
+            "primary_button_link": "",
+            "secondary_button_label": "",
+            "secondary_button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21696556564788__723c1096-faa8-49ef-a973-05e6978a2653-content-1"
+      ],
+      "settings": {
+        "enable_large_heading": false,
+        "color_scheme": "",
+        "section_overlay_opacity": 79,
+        "section_mask_overlay_color": "#000000",
+        "section_content_overlay_color": "#FFFFFF",
+        "height_desktop": "100",
+        "height_mobile": "70",
+        "desktop_background_image": "shopify://shop_images/MAD00060_ac53bb76-e2d5-4409-a924-09ecd4364028.jpg",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "68937f53-0866-4efa-81a2-63e1b2b0f153": {
+      "type": "image-with-text",
+      "disabled": true,
+      "custom_css": [
+        "@media (orientation: landscape) {.s-header--special {padding-top: 0; }}"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "enable_large_heading": true,
+        "content_alignment": "ta-left",
+        "remove_padding_top": true,
+        "remove_padding_bottom": true,
+        "primary_image": "shopify://shop_images/MAD09736.jpg",
+        "primary_image_ratio": "landscape",
+        "secondary_image_ratio": "square",
+        "subheading": "",
+        "heading": "Shop jackets",
+        "description": "",
+        "button_main_text": "",
+        "button_main_link": "",
+        "button_sub_text": "",
+        "button_sub_link": "",
+        "badge_text": "Trend Setters",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--asterisk"
+      }
+    },
+    "header": {
+      "type": "main-collection-header",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_collection_image": true,
+        "show_description": true,
+        "remove_padding_top": true,
+        "remove_padding_bottom": true
+      }
+    },
+    "main": {
+      "type": "main-collection-products",
+      "settings": {
+        "color_scheme": "",
+        "items_per_row_on_desktop_horizontal": "4",
+        "items_per_row_on_desktop_vertical": "3",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "1",
+        "item_per_page": "24",
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "enable_filtering": true,
+        "expand_all_filter": true,
+        "enable_sort": true,
+        "desktop_filter_and_sort_layout": "horizontal"
+      }
+    }
+  },
+  "order": [
+    "723c1096-faa8-49ef-a973-05e6978a2653",
+    "68937f53-0866-4efa-81a2-63e1b2b0f153",
+    "header",
+    "main"
+  ]
+}

@@ -1,1 +1,281 @@
-{"sections":{"breadcrumb":{"type":"breadcrumb","settings":{"color_scheme":""}},"main":{"type":"main-page","disabled":true,"settings":{"color_scheme":"","show_page_title":true,"remove_padding_top":true,"remove_padding_bottom":false}},"0743980d-35d0-4cda-818c-2f9c31223a72":{"type":"collapsible-content","blocks":{"template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-1":{"type":"content","settings":{"block_heading":"ONLINE STORE TERMS","description":"<p><\/p><p>By engaging with our website, you confirm that you are legally eligible to do so. Any use of our products for unlawful purposes or violation of local laws will result in immediate termination of services. We require users to adhere to ethical standards and ensure their actions align with our community guidelines.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-2":{"type":"content","settings":{"block_heading":"GENERAL CONDITIONS","description":"<p>We reserve the right to deny service to any individual at our discretion. Any attempt to reproduce, duplicate, or exploit our services without written permission is strictly prohibited. This includes but is not limited to the resale of our products without proper authorization.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-3":{"type":"content","settings":{"block_heading":"ACCURACY, COMPLETENESS AND TIMELINESS OF INFORMATION","description":"<p>While we strive for accuracy, we are not responsible for outdated or incomplete information on the site. Users should use the information provided at their own risk. We recommend cross-referencing critical details and consulting our customer service for any uncertainties.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-4":{"type":"content","disabled":true,"settings":{"block_heading":"MODIFICATIONS TO THE SERVICE AND PRICES","description":"<p>Prices may change without notice, and we may modify or discontinue services at any time. We will make reasonable efforts to notify users of any significant changes, but it is the user's responsibility to stay informed about our service updates.<\/p>","page":"","icon_source":"theme_library","options_icon":"check","html_code":""}},"template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-5":{"type":"content","settings":{"block_heading":"PRODUCTS OR SERVICES","description":"<p>We reserve the right to limit quantities or discontinue products or services as needed. In instances of limited availability or discontinued items, we encourage users to explore alternative options and stay informed about the latest additions to our collection.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"b9db7665-886b-4565-a319-302e0b0f96d5":{"type":"content","settings":{"block_heading":"ACCURACY OF BILLING AND ACCOUNT INFORMATION","description":"<p>We reserve the right to refuse any order and may update account information as necessary. Users are responsible for providing accurate billing and account information, and we recommend regular reviews to ensure seamless transactions.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"46c57c9c-ff0c-4926-b748-c6b41752ed08":{"type":"content","settings":{"block_heading":"OPTIONAL TOOLS","description":"<p>Third-party tools are provided as-is without warranties. Users should be aware of and agree to the terms of third-party providers. While we aim to integrate reliable tools, users are encouraged to exercise caution and report any issues for prompt resolution.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"f61b2dcd-44b7-4644-9210-9c39813b39f0":{"type":"content","settings":{"block_heading":"THIRD-PARTY LINKS","description":"<p>We are not responsible for the content of third-party websites linked on our site. Users should independently assess the reliability and relevance of external links and report any concerns to us for review.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"8ad645e8-c8b3-4c69-bcf9-8a07698933fa":{"type":"content","settings":{"block_heading":"USER COMMENTS, FEEDBACK AND OTHER SUBMISSIONS","description":"<p>User comments and submissions may be used by us without restriction. By sharing feedback or creative ideas, users acknowledge their potential contribution to our community and grant us permission to utilize their insights to enhance our services.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"af889977-94fb-4524-8d61-f60312d97e50":{"type":"content","disabled":true,"settings":{"block_heading":" PERSONAL INFORMATION","description":"<p>Submission of personal information is governed by our Privacy Policy, and users should review it for details. We prioritize the security and confidentiality of user data, and our Privacy Policy outlines our commitment to safeguarding sensitive information.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"66c9599b-90ec-4a6c-8ed6-49a6b4078e4c":{"type":"content","settings":{"block_heading":"ERRORS, INACCURACIES AND OMISSIONS","description":"<p>While we strive for accuracy, we do not guarantee that the service will be error-free. Users are encouraged to report any inaccuracies or issues promptly to our customer support team for investigation and resolution.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"8f710fcf-48d2-4c72-8d93-157db89601ae":{"type":"content","settings":{"block_heading":"PROHIBITED USES","description":"<p>The site should not be used for unlawful or inappropriate purposes. This includes but is not limited to activities that infringe on intellectual property rights, engage in discriminatory behavior, or compromise the integrity of our community.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"423f07bf-43e2-471b-8834-823bd2936a58":{"type":"content","settings":{"block_heading":"DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY","description":"<p>Users accept that the service is provided \"as-is,\" and we are not liable for damages arising from its use. While we take measures to ensure a reliable service, users acknowledge the inherent risks and limitations and agree to use the service at their own discretion.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"113f57d3-a169-440b-90bb-133f0facdf7b":{"type":"content","settings":{"block_heading":"INDEMNIFICATION","description":"<p>Users agree to indemnify and hold us harmless from any claims. In cases where user actions result in legal consequences or financial liabilities, users commit to covering associated costs and legal fees, ensuring a fair resolution for all parties involved.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"f0bfe619-f83a-48ec-8e56-f81f3b22386b":{"type":"content","settings":{"block_heading":"SEVERABILITY","description":"<p>If any provision is deemed unlawful, void, or unenforceable, it will be severed without affecting other provisions. Our commitment to upholding legal and ethical standards remains intact, and the removal of specific provisions does not compromise the overall integrity of these terms.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"fcbde601-b342-45f1-925f-624501121915":{"type":"content","settings":{"block_heading":"TERMINATION","description":"<p>These terms are effective until terminated by either party. Users have the flexibility to discontinue their use of our services at any time. If any concerns or disputes arise, users are encouraged to engage in open communication to explore resolutions before considering termination.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"daa13adf-6852-4cf3-89ee-6e80c0f36382":{"type":"content","settings":{"block_heading":"ENTIRE AGREEMENT","description":"<p>These terms constitute the entire agreement between users and us. Our commitment to transparency and clarity is reflected in these comprehensive terms, ensuring that users have a holistic understanding of their rights and responsibilities.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"0cefe124-1f92-491b-98ed-440f409f6a8a":{"type":"content","settings":{"block_heading":"GOVERNING LAW","description":"<p>These terms are governed by the laws of India. Users engaging with our services agree to abide by the legal frameworks outlined by Indian law, fostering a collaborative and compliant online environment.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"6ef06a55-dbdb-46f0-ab44-0ea9c94c0943":{"type":"content","settings":{"block_heading":"CHANGES TO TERMS OF SERVICE","description":"<p>Users are responsible for checking for updates to these terms. We value transparency and will communicate significant changes, but users are encouraged to periodically review the terms to stay informed about any modifications that may impact their user experience.<\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}},"3500b062-f02b-4ada-9edd-0e0e85264604":{"type":"content","settings":{"block_heading":"CONTACT INFORMATION","description":"<p>Questions about these terms should be directed to <a href=\"mailto:info@dorhe.in\"><span style=\"text-decoration:underline\">info@dorhe.in<\/span><\/a><\/p>","page":"","icon_source":"theme_library","options_icon":"check-mark","html_code":""}}},"block_order":["template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-1","template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-2","template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-3","template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-4","template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-5","b9db7665-886b-4565-a319-302e0b0f96d5","46c57c9c-ff0c-4926-b748-c6b41752ed08","f61b2dcd-44b7-4644-9210-9c39813b39f0","8ad645e8-c8b3-4c69-bcf9-8a07698933fa","af889977-94fb-4524-8d61-f60312d97e50","66c9599b-90ec-4a6c-8ed6-49a6b4078e4c","8f710fcf-48d2-4c72-8d93-157db89601ae","423f07bf-43e2-471b-8834-823bd2936a58","113f57d3-a169-440b-90bb-133f0facdf7b","f0bfe619-f83a-48ec-8e56-f81f3b22386b","fcbde601-b342-45f1-925f-624501121915","daa13adf-6852-4cf3-89ee-6e80c0f36382","0cefe124-1f92-491b-98ed-440f409f6a8a","6ef06a55-dbdb-46f0-ab44-0ea9c94c0943","3500b062-f02b-4ada-9edd-0e0e85264604"],"custom_css":[".s-content .clm {--w-xl: 12 !important;}"],"settings":{"color_scheme":"","subheading":"","heading":"TERMS AND CONDITIONS","description":"","content_alignment":"ta-center m-auto","content_ordering":"text_first","remove_padding_top":false,"remove_padding_bottom":false,"image_ratio":"2\/3","btn_text":"","btn_link":"","show_icon":true,"expand_first_item_initially":true}}},"order":["breadcrumb","main","0743980d-35d0-4cda-818c-2f9c31223a72"]}
+{
+  "sections": {
+    "breadcrumb": { "type": "breadcrumb", "settings": { "color_scheme": "" } },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_page_title": true,
+        "remove_padding_top": true,
+        "remove_padding_bottom": false
+      }
+    },
+    "0743980d-35d0-4cda-818c-2f9c31223a72": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-1": {
+          "type": "content",
+          "settings": {
+            "block_heading": "ONLINE STORE TERMS",
+            "description": "<p></p><p>By engaging with our website, you confirm that you are legally eligible to do so. Any use of our products for unlawful purposes or violation of local laws will result in immediate termination of services. We require users to adhere to ethical standards and ensure their actions align with our community guidelines.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-2": {
+          "type": "content",
+          "settings": {
+            "block_heading": "GENERAL CONDITIONS",
+            "description": "<p>We reserve the right to deny service to any individual at our discretion. Any attempt to reproduce, duplicate, or exploit our services without written permission is strictly prohibited. This includes but is not limited to the resale of our products without proper authorization.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-3": {
+          "type": "content",
+          "settings": {
+            "block_heading": "ACCURACY, COMPLETENESS AND TIMELINESS OF INFORMATION",
+            "description": "<p>While we strive for accuracy, we are not responsible for outdated or incomplete information on the site. Users should use the information provided at their own risk. We recommend cross-referencing critical details and consulting our customer service for any uncertainties.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-4": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "block_heading": "MODIFICATIONS TO THE SERVICE AND PRICES",
+            "description": "<p>Prices may change without notice, and we may modify or discontinue services at any time. We will make reasonable efforts to notify users of any significant changes, but it is the user's responsibility to stay informed about our service updates.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check",
+            "html_code": ""
+          }
+        },
+        "template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-5": {
+          "type": "content",
+          "settings": {
+            "block_heading": "PRODUCTS OR SERVICES",
+            "description": "<p>We reserve the right to limit quantities or discontinue products or services as needed. In instances of limited availability or discontinued items, we encourage users to explore alternative options and stay informed about the latest additions to our collection.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "b9db7665-886b-4565-a319-302e0b0f96d5": {
+          "type": "content",
+          "settings": {
+            "block_heading": "ACCURACY OF BILLING AND ACCOUNT INFORMATION",
+            "description": "<p>We reserve the right to refuse any order and may update account information as necessary. Users are responsible for providing accurate billing and account information, and we recommend regular reviews to ensure seamless transactions.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "46c57c9c-ff0c-4926-b748-c6b41752ed08": {
+          "type": "content",
+          "settings": {
+            "block_heading": "OPTIONAL TOOLS",
+            "description": "<p>Third-party tools are provided as-is without warranties. Users should be aware of and agree to the terms of third-party providers. While we aim to integrate reliable tools, users are encouraged to exercise caution and report any issues for prompt resolution.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "f61b2dcd-44b7-4644-9210-9c39813b39f0": {
+          "type": "content",
+          "settings": {
+            "block_heading": "THIRD-PARTY LINKS",
+            "description": "<p>We are not responsible for the content of third-party websites linked on our site. Users should independently assess the reliability and relevance of external links and report any concerns to us for review.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "8ad645e8-c8b3-4c69-bcf9-8a07698933fa": {
+          "type": "content",
+          "settings": {
+            "block_heading": "USER COMMENTS, FEEDBACK AND OTHER SUBMISSIONS",
+            "description": "<p>User comments and submissions may be used by us without restriction. By sharing feedback or creative ideas, users acknowledge their potential contribution to our community and grant us permission to utilize their insights to enhance our services.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "af889977-94fb-4524-8d61-f60312d97e50": {
+          "type": "content",
+          "disabled": true,
+          "settings": {
+            "block_heading": " PERSONAL INFORMATION",
+            "description": "<p>Submission of personal information is governed by our Privacy Policy, and users should review it for details. We prioritize the security and confidentiality of user data, and our Privacy Policy outlines our commitment to safeguarding sensitive information.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "66c9599b-90ec-4a6c-8ed6-49a6b4078e4c": {
+          "type": "content",
+          "settings": {
+            "block_heading": "ERRORS, INACCURACIES AND OMISSIONS",
+            "description": "<p>While we strive for accuracy, we do not guarantee that the service will be error-free. Users are encouraged to report any inaccuracies or issues promptly to our customer support team for investigation and resolution.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "8f710fcf-48d2-4c72-8d93-157db89601ae": {
+          "type": "content",
+          "settings": {
+            "block_heading": "PROHIBITED USES",
+            "description": "<p>The site should not be used for unlawful or inappropriate purposes. This includes but is not limited to activities that infringe on intellectual property rights, engage in discriminatory behavior, or compromise the integrity of our community.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "423f07bf-43e2-471b-8834-823bd2936a58": {
+          "type": "content",
+          "settings": {
+            "block_heading": "DISCLAIMER OF WARRANTIES; LIMITATION OF LIABILITY",
+            "description": "<p>Users accept that the service is provided \"as-is,\" and we are not liable for damages arising from its use. While we take measures to ensure a reliable service, users acknowledge the inherent risks and limitations and agree to use the service at their own discretion.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "113f57d3-a169-440b-90bb-133f0facdf7b": {
+          "type": "content",
+          "settings": {
+            "block_heading": "INDEMNIFICATION",
+            "description": "<p>Users agree to indemnify and hold us harmless from any claims. In cases where user actions result in legal consequences or financial liabilities, users commit to covering associated costs and legal fees, ensuring a fair resolution for all parties involved.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "f0bfe619-f83a-48ec-8e56-f81f3b22386b": {
+          "type": "content",
+          "settings": {
+            "block_heading": "SEVERABILITY",
+            "description": "<p>If any provision is deemed unlawful, void, or unenforceable, it will be severed without affecting other provisions. Our commitment to upholding legal and ethical standards remains intact, and the removal of specific provisions does not compromise the overall integrity of these terms.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "fcbde601-b342-45f1-925f-624501121915": {
+          "type": "content",
+          "settings": {
+            "block_heading": "TERMINATION",
+            "description": "<p>These terms are effective until terminated by either party. Users have the flexibility to discontinue their use of our services at any time. If any concerns or disputes arise, users are encouraged to engage in open communication to explore resolutions before considering termination.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "daa13adf-6852-4cf3-89ee-6e80c0f36382": {
+          "type": "content",
+          "settings": {
+            "block_heading": "ENTIRE AGREEMENT",
+            "description": "<p>These terms constitute the entire agreement between users and us. Our commitment to transparency and clarity is reflected in these comprehensive terms, ensuring that users have a holistic understanding of their rights and responsibilities.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "0cefe124-1f92-491b-98ed-440f409f6a8a": {
+          "type": "content",
+          "settings": {
+            "block_heading": "GOVERNING LAW",
+            "description": "<p>These terms are governed by the laws of India. Users engaging with our services agree to abide by the legal frameworks outlined by Indian law, fostering a collaborative and compliant online environment.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "6ef06a55-dbdb-46f0-ab44-0ea9c94c0943": {
+          "type": "content",
+          "settings": {
+            "block_heading": "CHANGES TO TERMS OF SERVICE",
+            "description": "<p>Users are responsible for checking for updates to these terms. We value transparency and will communicate significant changes, but users are encouraged to periodically review the terms to stay informed about any modifications that may impact their user experience.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        },
+        "3500b062-f02b-4ada-9edd-0e0e85264604": {
+          "type": "content",
+          "settings": {
+            "block_heading": "CONTACT INFORMATION",
+            "description": "<p>Questions about these terms should be directed to <a href=\"mailto:info@dorhe.in\"><span style=\"text-decoration:underline\">info@dorhe.in</span></a></p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check-mark",
+            "html_code": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-1",
+        "template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-2",
+        "template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-3",
+        "template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-4",
+        "template--21624342872372__0743980d-35d0-4cda-818c-2f9c31223a72-content-5",
+        "b9db7665-886b-4565-a319-302e0b0f96d5",
+        "46c57c9c-ff0c-4926-b748-c6b41752ed08",
+        "f61b2dcd-44b7-4644-9210-9c39813b39f0",
+        "8ad645e8-c8b3-4c69-bcf9-8a07698933fa",
+        "af889977-94fb-4524-8d61-f60312d97e50",
+        "66c9599b-90ec-4a6c-8ed6-49a6b4078e4c",
+        "8f710fcf-48d2-4c72-8d93-157db89601ae",
+        "423f07bf-43e2-471b-8834-823bd2936a58",
+        "113f57d3-a169-440b-90bb-133f0facdf7b",
+        "f0bfe619-f83a-48ec-8e56-f81f3b22386b",
+        "fcbde601-b342-45f1-925f-624501121915",
+        "daa13adf-6852-4cf3-89ee-6e80c0f36382",
+        "0cefe124-1f92-491b-98ed-440f409f6a8a",
+        "6ef06a55-dbdb-46f0-ab44-0ea9c94c0943",
+        "3500b062-f02b-4ada-9edd-0e0e85264604"
+      ],
+      "custom_css": [".s-content .clm {--w-xl: 12 !important;}"],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "TERMS AND CONDITIONS",
+        "description": "",
+        "content_alignment": "ta-center m-auto",
+        "content_ordering": "text_first",
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "image_ratio": "2/3",
+        "btn_text": "",
+        "btn_link": "",
+        "show_icon": true,
+        "expand_first_item_initially": true
+      }
+    }
+  },
+  "order": ["breadcrumb", "main", "0743980d-35d0-4cda-818c-2f9c31223a72"]
+}

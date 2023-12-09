@@ -1,1 +1,106 @@
-{"parent":"page.testing-homepage.json","context":{"market":"in"},"sections":{"4c93ced9-b5d0-4e31-bb7b-ca62c9bdba11":{"type":"hero-image-with-text","disabled":false,"settings":{"header-c7faebc11118774907776b915c86f572":null,"color_scheme":"","header-4386cd118c0357390dc4bb8f875b26ec":null,"content_align":"ta-left","remove_padding_top":false,"remove_padding_bottom":false,"header-f7a13c6eac4cd2a179912cac385338e0":null,"subheading":"Featured","heading":"Jacket","description":"<p> It all starts with a designer's brain doing a creative cha-cha with inspiration, turning wild ideas into sketch-tango. Then comes the denim dating game – choosing the perfect fabric that says, \"I'm denim, but make it fabulous!\" The pattern-making party kicks off, where silhouettes shimmy and details salsa. <\/p>","header-4133cd910a6447e0bfb64a2b2b80d8ab":null,"hero_image":"shopify:\/\/shop_images\/vest_Goth_rib_puffed_01.jpg","image_ratio":"2\/3","header-96e5cb57d9596460b9d3230ff1320959":null,"button_main_text":"View Product","button_main_link":"","button_sub_text":"View Collections","button_sub_link":"","header-5a3b8fa72583e2399d5457be5e01e4d9":null,"badge_text":"Your text","badge_color":"color-accent-1","badge_position":"p-badge--bottom-right","badge_shape":"badge--star","header-c0459119a893d64ec78e80f6332ea9e4":null,"enable_collections":false,"heading_collections":"","collection_list":[],"enable_view_all":false,"button_text":"","show_navigation":true},"blocks":{},"block_order":[]},"41575685-c3aa-4a53-b545-33e5440740ca":{"type":"hero-image-with-text","disabled":false,"settings":{"header-c7faebc11118774907776b915c86f572":null,"color_scheme":"","header-4386cd118c0357390dc4bb8f875b26ec":null,"content_align":"ta-left","remove_padding_top":false,"remove_padding_bottom":false,"header-f7a13c6eac4cd2a179912cac385338e0":null,"subheading":"Featured","heading":"Jeans","description":"<p>Use this text to share brand information with your customers. Introduce a new product, announce an announcement or welcome customers.<\/p>","header-4133cd910a6447e0bfb64a2b2b80d8ab":null,"hero_image":"shopify:\/\/shop_images\/jeans_Goth_black_long_02.jpg","image_ratio":"2\/3","header-96e5cb57d9596460b9d3230ff1320959":null,"button_main_text":"Button label","button_main_link":"","button_sub_text":"Button label","button_sub_link":"","header-5a3b8fa72583e2399d5457be5e01e4d9":null,"badge_text":"","badge_color":"color-accent-2","badge_position":"p-badge--bottom-right","badge_shape":"badge--star","header-c0459119a893d64ec78e80f6332ea9e4":null,"enable_collections":false,"heading_collections":"Our collections","collection_list":[],"enable_view_all":false,"button_text":"See all collections","show_navigation":true},"blocks":{},"block_order":[]},"8c0f9e0a-46dc-480a-8b89-a5388385f56a":{"settings":{"accent_scheme":"color-accent-2"},"blocks":{}}},"order":["breadcrumb","main","8d2424d8-cc3d-42c0-a2b9-64653c0b9f2f","4c93ced9-b5d0-4e31-bb7b-ca62c9bdba11","41575685-c3aa-4a53-b545-33e5440740ca","e0ae5779-44e9-406f-8362-766bd5565318","f31119a5-ec82-4ff5-b109-682200c3ec00","2fb97564-5b8f-4a60-b9de-2a32c93e25af","88e1bb19-04a0-4bff-ba85-7c34c31bf195","a2d788da-db68-489d-aa0c-d9f2efb68b59","8c0f9e0a-46dc-480a-8b89-a5388385f56a","dc3ddcc4-3e9a-4bba-8dee-9ce2315190b7","25a0d5c8-27f9-4305-baad-a5689c50200d","1048d267-6b14-4054-91e0-9ad388ba9116"]}
+{
+  "parent": "page.testing-homepage.json",
+  "context": {
+    "market": "in"
+  },
+  "sections": {
+    "4c93ced9-b5d0-4e31-bb7b-ca62c9bdba11": {
+      "type": "hero-image-with-text",
+      "disabled": false,
+      "settings": {
+        "header-c7faebc11118774907776b915c86f572": null,
+        "color_scheme": "",
+        "header-4386cd118c0357390dc4bb8f875b26ec": null,
+        "content_align": "ta-left",
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "header-f7a13c6eac4cd2a179912cac385338e0": null,
+        "subheading": "Featured",
+        "heading": "Jacket",
+        "description": "<p> It all starts with a designer's brain doing a creative cha-cha with inspiration, turning wild ideas into sketch-tango. Then comes the denim dating game – choosing the perfect fabric that says, \"I'm denim, but make it fabulous!\" The pattern-making party kicks off, where silhouettes shimmy and details salsa. </p>",
+        "header-4133cd910a6447e0bfb64a2b2b80d8ab": null,
+        "hero_image": "shopify://shop_images/vest_Goth_rib_puffed_01.jpg",
+        "image_ratio": "2/3",
+        "header-96e5cb57d9596460b9d3230ff1320959": null,
+        "button_main_text": "View Product",
+        "button_main_link": "",
+        "button_sub_text": "View Collections",
+        "button_sub_link": "",
+        "header-5a3b8fa72583e2399d5457be5e01e4d9": null,
+        "badge_text": "Your text",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--star",
+        "header-c0459119a893d64ec78e80f6332ea9e4": null,
+        "enable_collections": false,
+        "heading_collections": "",
+        "collection_list": [],
+        "enable_view_all": false,
+        "button_text": "",
+        "show_navigation": true
+      },
+      "blocks": {},
+      "block_order": []
+    },
+    "41575685-c3aa-4a53-b545-33e5440740ca": {
+      "type": "hero-image-with-text",
+      "disabled": false,
+      "settings": {
+        "header-c7faebc11118774907776b915c86f572": null,
+        "color_scheme": "",
+        "header-4386cd118c0357390dc4bb8f875b26ec": null,
+        "content_align": "ta-left",
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "header-f7a13c6eac4cd2a179912cac385338e0": null,
+        "subheading": "Featured",
+        "heading": "Jeans",
+        "description": "<p>Use this text to share brand information with your customers. Introduce a new product, announce an announcement or welcome customers.</p>",
+        "header-4133cd910a6447e0bfb64a2b2b80d8ab": null,
+        "hero_image": "shopify://shop_images/jeans_Goth_black_long_02.jpg",
+        "image_ratio": "2/3",
+        "header-96e5cb57d9596460b9d3230ff1320959": null,
+        "button_main_text": "Button label",
+        "button_main_link": "",
+        "button_sub_text": "Button label",
+        "button_sub_link": "",
+        "header-5a3b8fa72583e2399d5457be5e01e4d9": null,
+        "badge_text": "",
+        "badge_color": "color-accent-2",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--star",
+        "header-c0459119a893d64ec78e80f6332ea9e4": null,
+        "enable_collections": false,
+        "heading_collections": "Our collections",
+        "collection_list": [],
+        "enable_view_all": false,
+        "button_text": "See all collections",
+        "show_navigation": true
+      },
+      "blocks": {},
+      "block_order": []
+    },
+    "8c0f9e0a-46dc-480a-8b89-a5388385f56a": {
+      "settings": {
+        "accent_scheme": "color-accent-2"
+      },
+      "blocks": {}
+    }
+  },
+  "order": [
+    "breadcrumb",
+    "main",
+    "8d2424d8-cc3d-42c0-a2b9-64653c0b9f2f",
+    "4c93ced9-b5d0-4e31-bb7b-ca62c9bdba11",
+    "41575685-c3aa-4a53-b545-33e5440740ca",
+    "e0ae5779-44e9-406f-8362-766bd5565318",
+    "f31119a5-ec82-4ff5-b109-682200c3ec00",
+    "2fb97564-5b8f-4a60-b9de-2a32c93e25af",
+    "88e1bb19-04a0-4bff-ba85-7c34c31bf195",
+    "a2d788da-db68-489d-aa0c-d9f2efb68b59",
+    "8c0f9e0a-46dc-480a-8b89-a5388385f56a",
+    "dc3ddcc4-3e9a-4bba-8dee-9ce2315190b7",
+    "25a0d5c8-27f9-4305-baad-a5689c50200d",
+    "1048d267-6b14-4054-91e0-9ad388ba9116"
+  ]
+}

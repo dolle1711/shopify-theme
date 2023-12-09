@@ -1,1 +1,4 @@
-{"sections":{"main":{"type":"account-addresses","settings":{}}},"order":["main"]}
+{
+  "sections": { "main": { "type": "account-addresses", "settings": {} } },
+  "order": ["main"]
+}

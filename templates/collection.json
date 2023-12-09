@@ -1,1 +1,63 @@
-{"sections":{"breadcrumb":{"type":"breadcrumb","settings":{"color_scheme":""}},"9aea1a5b-2081-4bf7-80a6-77cd7f8c5b92":{"type":"image-with-text","disabled":true,"settings":{"color_scheme":"","enable_large_heading":false,"content_alignment":"ta-left","remove_padding_top":true,"remove_padding_bottom":true,"primary_image":"shopify:\/\/shop_images\/MAD08174copy.jpg","primary_image_ratio":"landscape","secondary_image_ratio":"portrait","subheading":"","heading":"Jackets","description":"<p> Iconic and timeless wardrobe staples that effortlessly blend fashion and functionality. One of the key attractions of our denim jackets lies in their ability to effortlessly complement a wide array of outfits. Whether paired with a simple t-shirt and jeans for a relaxed look or thrown over a floral dress.<\/p>","button_main_text":"","button_main_link":"","button_sub_text":"","button_sub_link":"","badge_text":"Shop As You Like","badge_color":"color-accent-2","badge_position":"p-badge--bottom-right","badge_shape":"badge--asterisk"}},"header":{"type":"main-collection-header","settings":{"color_scheme":"","show_collection_image":true,"show_description":true,"remove_padding_top":true,"remove_padding_bottom":true}},"main":{"type":"main-collection-products","settings":{"color_scheme":"","items_per_row_on_desktop_horizontal":"4","items_per_row_on_desktop_vertical":"3","items_per_row_on_tablet":"3","items_per_row_on_mobile":"1","item_per_page":"24","remove_padding_top":false,"remove_padding_bottom":false,"enable_filtering":true,"expand_all_filter":true,"enable_sort":true,"desktop_filter_and_sort_layout":"horizontal"}}},"order":["breadcrumb","9aea1a5b-2081-4bf7-80a6-77cd7f8c5b92","header","main"]}
+{
+  "sections": {
+    "breadcrumb": { "type": "breadcrumb", "settings": { "color_scheme": "" } },
+    "9aea1a5b-2081-4bf7-80a6-77cd7f8c5b92": {
+      "type": "image-with-text",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "enable_large_heading": false,
+        "content_alignment": "ta-left",
+        "remove_padding_top": true,
+        "remove_padding_bottom": true,
+        "primary_image": "shopify://shop_images/MAD08174copy.jpg",
+        "primary_image_ratio": "landscape",
+        "secondary_image_ratio": "portrait",
+        "subheading": "",
+        "heading": "Jackets",
+        "description": "<p> Iconic and timeless wardrobe staples that effortlessly blend fashion and functionality. One of the key attractions of our denim jackets lies in their ability to effortlessly complement a wide array of outfits. Whether paired with a simple t-shirt and jeans for a relaxed look or thrown over a floral dress.</p>",
+        "button_main_text": "",
+        "button_main_link": "",
+        "button_sub_text": "",
+        "button_sub_link": "",
+        "badge_text": "Shop As You Like",
+        "badge_color": "color-accent-2",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--asterisk"
+      }
+    },
+    "header": {
+      "type": "main-collection-header",
+      "settings": {
+        "color_scheme": "",
+        "show_collection_image": true,
+        "show_description": true,
+        "remove_padding_top": true,
+        "remove_padding_bottom": true
+      }
+    },
+    "main": {
+      "type": "main-collection-products",
+      "settings": {
+        "color_scheme": "",
+        "items_per_row_on_desktop_horizontal": "4",
+        "items_per_row_on_desktop_vertical": "3",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "1",
+        "item_per_page": "24",
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "enable_filtering": true,
+        "expand_all_filter": true,
+        "enable_sort": true,
+        "desktop_filter_and_sort_layout": "horizontal"
+      }
+    }
+  },
+  "order": [
+    "breadcrumb",
+    "9aea1a5b-2081-4bf7-80a6-77cd7f8c5b92",
+    "header",
+    "main"
+  ]
+}

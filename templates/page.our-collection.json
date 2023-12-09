@@ -1,1 +1,189 @@
-{"sections":{"breadcrumb":{"type":"breadcrumb","settings":{"color_scheme":""}},"main":{"type":"main-page","disabled":true,"settings":{"color_scheme":"","show_page_title":true,"remove_padding_top":true,"remove_padding_bottom":false}},"05bd4ed6-78bb-4b59-a0d5-dc1f59997aa2":{"type":"featured-collections","blocks":{"template--21624269144372__05bd4ed6-78bb-4b59-a0d5-dc1f59997aa2-collection-1":{"type":"collection","settings":{"collection":"goth","heading":"Collection"}}},"block_order":["template--21624269144372__05bd4ed6-78bb-4b59-a0d5-dc1f59997aa2-collection-1"],"settings":{"color_scheme":"","subheading":"","heading":"Goth","description":"","content_alignment":"ta-left","items_to_show":4,"items_per_row_on_desktop":"4","items_per_row_on_tablet":"3","items_per_row_on_mobile":"1","enable_carousel":true,"show_navigation":true,"remove_padding_top":false,"remove_padding_bottom":false,"enable_view_more":true,"button_text":"View collection","badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--top-right","badge_shape":"badge--star"}},"87faef8c-ec31-454f-8f86-5fb9d09d49ad":{"type":"featured-collections","blocks":{"template--21624269144372__87faef8c-ec31-454f-8f86-5fb9d09d49ad-collection-1":{"type":"collection","settings":{"collection":"dopamine","heading":"Collection"}}},"block_order":["template--21624269144372__87faef8c-ec31-454f-8f86-5fb9d09d49ad-collection-1"],"settings":{"color_scheme":"","subheading":"","heading":"Dopamine","description":"","content_alignment":"ta-left","items_to_show":4,"items_per_row_on_desktop":"4","items_per_row_on_tablet":"3","items_per_row_on_mobile":"1","enable_carousel":true,"show_navigation":true,"remove_padding_top":false,"remove_padding_bottom":false,"enable_view_more":true,"button_text":"View collection","badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--top-right","badge_shape":"badge--star"}},"8fdb82d3-2df3-4b19-a74a-a9a27650991c":{"type":"featured-collections","blocks":{"template--21624269144372__8fdb82d3-2df3-4b19-a74a-a9a27650991c-collection-1":{"type":"collection","settings":{"collection":"bedazzled","heading":"Collection"}}},"block_order":["template--21624269144372__8fdb82d3-2df3-4b19-a74a-a9a27650991c-collection-1"],"settings":{"color_scheme":"","subheading":"","heading":"Bedazzled","description":"","content_alignment":"ta-left","items_to_show":4,"items_per_row_on_desktop":"4","items_per_row_on_tablet":"3","items_per_row_on_mobile":"1","enable_carousel":true,"show_navigation":true,"remove_padding_top":false,"remove_padding_bottom":false,"enable_view_more":true,"button_text":"View collection","badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--top-right","badge_shape":"badge--star"}},"0ac8f7d0-fc07-475f-8158-2530b5e65b05":{"type":"featured-collections","blocks":{"template--21624269144372__0ac8f7d0-fc07-475f-8158-2530b5e65b05-collection-1":{"type":"collection","settings":{"collection":"one-of-one","heading":"Collection"}}},"block_order":["template--21624269144372__0ac8f7d0-fc07-475f-8158-2530b5e65b05-collection-1"],"settings":{"color_scheme":"","subheading":"","heading":"One of One","description":"","content_alignment":"ta-left","items_to_show":4,"items_per_row_on_desktop":"4","items_per_row_on_tablet":"3","items_per_row_on_mobile":"1","enable_carousel":true,"show_navigation":true,"remove_padding_top":false,"remove_padding_bottom":false,"enable_view_more":true,"button_text":"View collection","badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--top-right","badge_shape":"badge--star"}},"a8ac44e2-bdb3-4398-9ab3-505021240082":{"type":"featured-collections","blocks":{"template--21624269144372__a8ac44e2-bdb3-4398-9ab3-505021240082-collection-1":{"type":"collection","settings":{"collection":"upcycled","heading":"Collection"}}},"block_order":["template--21624269144372__a8ac44e2-bdb3-4398-9ab3-505021240082-collection-1"],"settings":{"color_scheme":"","subheading":"","heading":"Upcycled","description":"","content_alignment":"ta-left","items_to_show":4,"items_per_row_on_desktop":"4","items_per_row_on_tablet":"3","items_per_row_on_mobile":"1","enable_carousel":true,"show_navigation":true,"remove_padding_top":false,"remove_padding_bottom":false,"enable_view_more":true,"button_text":"View collection","badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--top-right","badge_shape":"badge--star"}}},"order":["breadcrumb","main","05bd4ed6-78bb-4b59-a0d5-dc1f59997aa2","87faef8c-ec31-454f-8f86-5fb9d09d49ad","8fdb82d3-2df3-4b19-a74a-a9a27650991c","0ac8f7d0-fc07-475f-8158-2530b5e65b05","a8ac44e2-bdb3-4398-9ab3-505021240082"]}
+{
+  "sections": {
+    "breadcrumb": { "type": "breadcrumb", "settings": { "color_scheme": "" } },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_page_title": true,
+        "remove_padding_top": true,
+        "remove_padding_bottom": false
+      }
+    },
+    "05bd4ed6-78bb-4b59-a0d5-dc1f59997aa2": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--21624269144372__05bd4ed6-78bb-4b59-a0d5-dc1f59997aa2-collection-1": {
+          "type": "collection",
+          "settings": { "collection": "goth", "heading": "Collection" }
+        }
+      },
+      "block_order": [
+        "template--21624269144372__05bd4ed6-78bb-4b59-a0d5-dc1f59997aa2-collection-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "Goth",
+        "description": "",
+        "content_alignment": "ta-left",
+        "items_to_show": 4,
+        "items_per_row_on_desktop": "4",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "1",
+        "enable_carousel": true,
+        "show_navigation": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "enable_view_more": true,
+        "button_text": "View collection",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "87faef8c-ec31-454f-8f86-5fb9d09d49ad": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--21624269144372__87faef8c-ec31-454f-8f86-5fb9d09d49ad-collection-1": {
+          "type": "collection",
+          "settings": { "collection": "dopamine", "heading": "Collection" }
+        }
+      },
+      "block_order": [
+        "template--21624269144372__87faef8c-ec31-454f-8f86-5fb9d09d49ad-collection-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "Dopamine",
+        "description": "",
+        "content_alignment": "ta-left",
+        "items_to_show": 4,
+        "items_per_row_on_desktop": "4",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "1",
+        "enable_carousel": true,
+        "show_navigation": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "enable_view_more": true,
+        "button_text": "View collection",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "8fdb82d3-2df3-4b19-a74a-a9a27650991c": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--21624269144372__8fdb82d3-2df3-4b19-a74a-a9a27650991c-collection-1": {
+          "type": "collection",
+          "settings": { "collection": "bedazzled", "heading": "Collection" }
+        }
+      },
+      "block_order": [
+        "template--21624269144372__8fdb82d3-2df3-4b19-a74a-a9a27650991c-collection-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "Bedazzled",
+        "description": "",
+        "content_alignment": "ta-left",
+        "items_to_show": 4,
+        "items_per_row_on_desktop": "4",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "1",
+        "enable_carousel": true,
+        "show_navigation": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "enable_view_more": true,
+        "button_text": "View collection",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "0ac8f7d0-fc07-475f-8158-2530b5e65b05": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--21624269144372__0ac8f7d0-fc07-475f-8158-2530b5e65b05-collection-1": {
+          "type": "collection",
+          "settings": { "collection": "one-of-one", "heading": "Collection" }
+        }
+      },
+      "block_order": [
+        "template--21624269144372__0ac8f7d0-fc07-475f-8158-2530b5e65b05-collection-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "One of One",
+        "description": "",
+        "content_alignment": "ta-left",
+        "items_to_show": 4,
+        "items_per_row_on_desktop": "4",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "1",
+        "enable_carousel": true,
+        "show_navigation": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "enable_view_more": true,
+        "button_text": "View collection",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "a8ac44e2-bdb3-4398-9ab3-505021240082": {
+      "type": "featured-collections",
+      "blocks": {
+        "template--21624269144372__a8ac44e2-bdb3-4398-9ab3-505021240082-collection-1": {
+          "type": "collection",
+          "settings": { "collection": "upcycled", "heading": "Collection" }
+        }
+      },
+      "block_order": [
+        "template--21624269144372__a8ac44e2-bdb3-4398-9ab3-505021240082-collection-1"
+      ],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "Upcycled",
+        "description": "",
+        "content_alignment": "ta-left",
+        "items_to_show": 4,
+        "items_per_row_on_desktop": "4",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "1",
+        "enable_carousel": true,
+        "show_navigation": true,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "enable_view_more": true,
+        "button_text": "View collection",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--star"
+      }
+    }
+  },
+  "order": [
+    "breadcrumb",
+    "main",
+    "05bd4ed6-78bb-4b59-a0d5-dc1f59997aa2",
+    "87faef8c-ec31-454f-8f86-5fb9d09d49ad",
+    "8fdb82d3-2df3-4b19-a74a-a9a27650991c",
+    "0ac8f7d0-fc07-475f-8158-2530b5e65b05",
+    "a8ac44e2-bdb3-4398-9ab3-505021240082"
+  ]
+}

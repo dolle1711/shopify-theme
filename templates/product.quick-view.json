@@ -1,1 +1,5 @@
-{"layout":false,"sections":{"main":{"type":"main-product-quick-view","settings":{}}},"order":["main"]}
+{
+  "layout": false,
+  "sections": { "main": { "type": "main-product-quick-view", "settings": {} } },
+  "order": ["main"]
+}

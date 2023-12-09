@@ -1,1 +1,90 @@
-{"sections":{"breadcrumb":{"type":"breadcrumb","settings":{"color_scheme":""}},"main":{"type":"main-list-collections","disabled":true,"settings":{"color_scheme":"","heading":"Collections","items_per_row_on_desktop":"4","items_per_row_on_tablet":"3","column_mobile":"1","item_per_page":"24","content_alignment":"ta-left","remove_padding_top":true,"remove_padding_bottom":false}},"f05b5931-550e-4c00-ac37-d2c27cfa28ec":{"type":"image-banner","blocks":{"template--21617802215732__f05b5931-550e-4c00-ac37-d2c27cfa28ec-content-1":{"type":"content","settings":{"content_position":"center-xs middle-xs ta-center","subheading":"","heading":"Dorhe collections","description":"","primary_button_label":"","primary_button_link":"","secondary_button_label":"","secondary_button_link":""}}},"block_order":["template--21617802215732__f05b5931-550e-4c00-ac37-d2c27cfa28ec-content-1"],"settings":{"enable_large_heading":false,"color_scheme":"","section_overlay_opacity":90,"section_mask_overlay_color":"#000000","section_content_overlay_color":"#FFFFFF","height_desktop":"70","height_mobile":"70","desktop_background_image":"shopify:\/\/shop_images\/Our_story_4.jpg","badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--top-right","badge_shape":"badge--star"}},"f0c3fdef-f29d-4122-89cf-d1068feafea4":{"type":"collection-list","settings":{"color_scheme":"","subheading":"","heading":"","description":"","items_per_row_on_desktop":"4","items_per_row_on_tablet":"3","items_per_row_on_mobile":"2","content_align":"ta-left","enable_carousel":true,"show_navigation":false,"remove_padding_top":false,"remove_padding_bottom":false,"collection_list":["artsy-street-vibes","patchwork-harmony","urban-muse","rose-rebel"],"enable_view_all":false,"button_main_text":"View all collections","badge_text":"Specials","badge_color":"color-accent-1","badge_position":"p-badge--bottom-right","badge_shape":"badge--asterisk"}}},"order":["breadcrumb","main","f05b5931-550e-4c00-ac37-d2c27cfa28ec","f0c3fdef-f29d-4122-89cf-d1068feafea4"]}
+{
+  "sections": {
+    "breadcrumb": { "type": "breadcrumb", "settings": { "color_scheme": "" } },
+    "main": {
+      "type": "main-list-collections",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "heading": "Collections",
+        "items_per_row_on_desktop": "4",
+        "items_per_row_on_tablet": "3",
+        "column_mobile": "1",
+        "item_per_page": "24",
+        "content_alignment": "ta-left",
+        "remove_padding_top": true,
+        "remove_padding_bottom": false
+      }
+    },
+    "f05b5931-550e-4c00-ac37-d2c27cfa28ec": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21617802215732__f05b5931-550e-4c00-ac37-d2c27cfa28ec-content-1": {
+          "type": "content",
+          "settings": {
+            "content_position": "center-xs middle-xs ta-center",
+            "subheading": "",
+            "heading": "Dorhe collections",
+            "description": "",
+            "primary_button_label": "",
+            "primary_button_link": "",
+            "secondary_button_label": "",
+            "secondary_button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21617802215732__f05b5931-550e-4c00-ac37-d2c27cfa28ec-content-1"
+      ],
+      "settings": {
+        "enable_large_heading": false,
+        "color_scheme": "",
+        "section_overlay_opacity": 90,
+        "section_mask_overlay_color": "#000000",
+        "section_content_overlay_color": "#FFFFFF",
+        "height_desktop": "70",
+        "height_mobile": "70",
+        "desktop_background_image": "shopify://shop_images/Our_story_4.jpg",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "f0c3fdef-f29d-4122-89cf-d1068feafea4": {
+      "type": "collection-list",
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "",
+        "description": "",
+        "items_per_row_on_desktop": "4",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "2",
+        "content_align": "ta-left",
+        "enable_carousel": true,
+        "show_navigation": false,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "collection_list": [
+          "artsy-street-vibes",
+          "patchwork-harmony",
+          "urban-muse",
+          "rose-rebel"
+        ],
+        "enable_view_all": false,
+        "button_main_text": "View all collections",
+        "badge_text": "Specials",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--asterisk"
+      }
+    }
+  },
+  "order": [
+    "breadcrumb",
+    "main",
+    "f05b5931-550e-4c00-ac37-d2c27cfa28ec",
+    "f0c3fdef-f29d-4122-89cf-d1068feafea4"
+  ]
+}

@@ -1,1 +1,111 @@
-{"sections":{"breadcrumb":{"type":"breadcrumb","settings":{"color_scheme":""}},"main":{"type":"main-page","disabled":true,"settings":{"color_scheme":"","show_page_title":true,"remove_padding_top":true,"remove_padding_bottom":false}},"1804a738-099b-40b2-be01-1b8c92f2cb1c":{"type":"collapsible-content","blocks":{"template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-1":{"type":"content","settings":{"block_heading":" How do I care for my Dorhe garments?","description":"<p>To maintain the longevity of your Dorhe pieces, we recommend dry cleaning or hand washing in cold water and air drying. The Hand Painted pieces are recommended for dry cleaning to ensure optimal care. Avoid harsh chemicals and excessive sunlight exposure.<\/p>","page":"","icon_source":"theme_library","options_icon":"check","html_code":""}},"template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-2":{"type":"content","settings":{"block_heading":"What is the estimated shipping time?","description":"<p>Our made-to-order garments typically take 2-3 weeks for production. Once shipped, delivery times vary based on your location. You will receive a tracking number for updates.<\/p>","page":"","icon_source":"theme_library","options_icon":"check","html_code":""}},"template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-3":{"type":"content","settings":{"block_heading":"Can I make changes to my order after it's placed?","description":"<p>We start production promptly, so changes post-order may result in additional costs and delays. Please review your order carefully during checkout.<\/p>","page":"","icon_source":"theme_library","options_icon":"check","html_code":""}},"template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-4":{"type":"content","settings":{"block_heading":"Are Dorhe garments one-of-a-kind?","description":"<p>Absolutely! Each Dorhe piece is crafted with a unique touch, making it one of a kind. Embrace your individuality with our exclusive designs.<\/p>","page":"","icon_source":"theme_library","options_icon":"check","html_code":""}},"template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-5":{"type":"content","settings":{"block_heading":"What is your return policy?","description":"<p>Due to the personalized nature of our creations, we do not accept returns. However, if there's an issue with your order, please reach out to our customer support.<\/p>","page":"","icon_source":"theme_library","options_icon":"check","html_code":""}},"7b70db6b-cb65-4e90-ab03-75b0a2a8d7b3":{"type":"content","settings":{"block_heading":"How can I contact Dorhe customer support?","description":"<p>For any inquiries or assistance, feel free to reach out to our dedicated customer support at info@dorhe.in.<\/p>","page":"","icon_source":"theme_library","options_icon":"check","html_code":""}}},"block_order":["template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-1","template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-2","template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-3","template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-4","template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-5","7b70db6b-cb65-4e90-ab03-75b0a2a8d7b3"],"custom_css":[".clm {--w-md: 12 !important; --w-xl: 12 !important;}"],"settings":{"color_scheme":"","subheading":"Frequently Asked Questions","heading":"FAQ","description":"","content_alignment":"ta-left","content_ordering":"text_first","remove_padding_top":false,"remove_padding_bottom":false,"image_ratio":"2\/3","btn_text":"","btn_link":"","show_icon":false,"expand_first_item_initially":true}}},"order":["breadcrumb","main","1804a738-099b-40b2-be01-1b8c92f2cb1c"]}
+{
+  "sections": {
+    "breadcrumb": { "type": "breadcrumb", "settings": { "color_scheme": "" } },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_page_title": true,
+        "remove_padding_top": true,
+        "remove_padding_bottom": false
+      }
+    },
+    "1804a738-099b-40b2-be01-1b8c92f2cb1c": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-1": {
+          "type": "content",
+          "settings": {
+            "block_heading": " How do I care for my Dorhe garments?",
+            "description": "<p>To maintain the longevity of your Dorhe pieces, we recommend dry cleaning or hand washing in cold water and air drying. The Hand Painted pieces are recommended for dry cleaning to ensure optimal care. Avoid harsh chemicals and excessive sunlight exposure.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check",
+            "html_code": ""
+          }
+        },
+        "template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-2": {
+          "type": "content",
+          "settings": {
+            "block_heading": "What is the estimated shipping time?",
+            "description": "<p>Our made-to-order garments typically take 2-3 weeks for production. Once shipped, delivery times vary based on your location. You will receive a tracking number for updates.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check",
+            "html_code": ""
+          }
+        },
+        "template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-3": {
+          "type": "content",
+          "settings": {
+            "block_heading": "Can I make changes to my order after it's placed?",
+            "description": "<p>We start production promptly, so changes post-order may result in additional costs and delays. Please review your order carefully during checkout.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check",
+            "html_code": ""
+          }
+        },
+        "template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-4": {
+          "type": "content",
+          "settings": {
+            "block_heading": "Are Dorhe garments one-of-a-kind?",
+            "description": "<p>Absolutely! Each Dorhe piece is crafted with a unique touch, making it one of a kind. Embrace your individuality with our exclusive designs.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check",
+            "html_code": ""
+          }
+        },
+        "template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-5": {
+          "type": "content",
+          "settings": {
+            "block_heading": "What is your return policy?",
+            "description": "<p>Due to the personalized nature of our creations, we do not accept returns. However, if there's an issue with your order, please reach out to our customer support.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check",
+            "html_code": ""
+          }
+        },
+        "7b70db6b-cb65-4e90-ab03-75b0a2a8d7b3": {
+          "type": "content",
+          "settings": {
+            "block_heading": "How can I contact Dorhe customer support?",
+            "description": "<p>For any inquiries or assistance, feel free to reach out to our dedicated customer support at info@dorhe.in.</p>",
+            "page": "",
+            "icon_source": "theme_library",
+            "options_icon": "check",
+            "html_code": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-1",
+        "template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-2",
+        "template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-3",
+        "template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-4",
+        "template--21624342905140__1804a738-099b-40b2-be01-1b8c92f2cb1c-content-5",
+        "7b70db6b-cb65-4e90-ab03-75b0a2a8d7b3"
+      ],
+      "custom_css": [".clm {--w-md: 12 !important; --w-xl: 12 !important;}"],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "Frequently Asked Questions",
+        "heading": "FAQ",
+        "description": "",
+        "content_alignment": "ta-left",
+        "content_ordering": "text_first",
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "image_ratio": "2/3",
+        "btn_text": "",
+        "btn_link": "",
+        "show_icon": false,
+        "expand_first_item_initially": true
+      }
+    }
+  },
+  "order": ["breadcrumb", "main", "1804a738-099b-40b2-be01-1b8c92f2cb1c"]
+}

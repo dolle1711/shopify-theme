@@ -1,1 +1,114 @@
-{"sections":{"4d3b15ce-c387-4177-bf18-7b741bcbd923":{"type":"video-banner","blocks":{"template--21698025226548__4d3b15ce-c387-4177-bf18-7b741bcbd923-content-1":{"type":"content","settings":{"content_position":"center-xs middle-xs ta-center","subheading":"","heading":"Dorhe statement","description":"","primary_button_label":"","primary_button_link":"","secondary_button_label":"","secondary_button_link":""}}},"block_order":["template--21698025226548__4d3b15ce-c387-4177-bf18-7b741bcbd923-content-1"],"settings":{"enable_large_heading":false,"color_scheme":"","image_overlay_opacity":90,"section_mask_overlay_color":"#000000","section_content_overlay_color":"#ffffff","height_desktop":"100","height_mobile":"100","video_url":"https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc","video_hosted":"shopify:\/\/files\/videos\/Statement page banner.mov","badge_text":"One Of A Kind","badge_color":"color-accent-2","badge_position":"p-badge--top-right","badge_shape":"badge--asterisk"}},"header":{"type":"main-collection-header","disabled":true,"settings":{"color_scheme":"","show_collection_image":true,"show_description":true,"remove_padding_top":true,"remove_padding_bottom":true}},"main":{"type":"main-collection-products","custom_css":["img {object-fit: cover;}"],"settings":{"color_scheme":"","items_per_row_on_desktop_horizontal":"3","items_per_row_on_desktop_vertical":"3","items_per_row_on_tablet":"3","items_per_row_on_mobile":"1","item_per_page":"24","remove_padding_top":false,"remove_padding_bottom":false,"enable_filtering":false,"expand_all_filter":false,"enable_sort":false,"desktop_filter_and_sort_layout":"horizontal"}},"93f990be-986d-41cb-abf0-a354f39f9211":{"type":"icon-with-text","blocks":{"template--21698025226548__93f990be-986d-41cb-abf0-a354f39f9211-item-3":{"type":"item","settings":{"icon_source":"theme_library","options_icon":"three-dots","html_code":"","heading":"Disclaimer","description":"<p>Every Dorhe piece is handpicked and transformed using a range of techniques, ensuring that each garment is one-of-a-kind. The emphasis on unique, handcrafted pieces, experimentation with various techniques, and a commitment to self-expression through fashion contribute to a distinctive and authentic style. If your desired size isn't in stock, reach out to us for a personalized, custom-made creation. Every order is crafted by hand, making each piece a unique expression of style and individuality hence the final product may slightly differ from the picture.<\/p><p>Our creations are crafted by merging various repurposed clothing pieces, transforming them into unique canvases. Dorhe exclusively represents our brand and officially announced collaborators. We hold no affiliations or endorsements with any other brand names or logos that may appear on our clothing. <\/p>"}}},"block_order":["template--21698025226548__93f990be-986d-41cb-abf0-a354f39f9211-item-3"],"custom_css":[".js-carousel-item {--w-md: 12 !important;}"],"settings":{"color_scheme":"","subheading":"","heading":"","description":"","icon_color":"color-accent-bg-1","items_per_row_on_desktop":"3","items_per_row_on_tablet":"3","content_align":"ta-center","enable_carousel":false,"show_navigation":false,"remove_padding_top":false,"remove_padding_bottom":false,"button_main_text":"","button_main_link":"","badge_text":"","badge_color":"color-accent-1","badge_position":"p-badge--bottom-right","badge_shape":"badge--star"}}},"order":["4d3b15ce-c387-4177-bf18-7b741bcbd923","header","main","93f990be-986d-41cb-abf0-a354f39f9211"]}
+{
+  "sections": {
+    "4d3b15ce-c387-4177-bf18-7b741bcbd923": {
+      "type": "video-banner",
+      "blocks": {
+        "template--21698025226548__4d3b15ce-c387-4177-bf18-7b741bcbd923-content-1": {
+          "type": "content",
+          "settings": {
+            "content_position": "center-xs middle-xs ta-center",
+            "subheading": "",
+            "heading": "Dorhe statement",
+            "description": "",
+            "primary_button_label": "",
+            "primary_button_link": "",
+            "secondary_button_label": "",
+            "secondary_button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21698025226548__4d3b15ce-c387-4177-bf18-7b741bcbd923-content-1"
+      ],
+      "settings": {
+        "enable_large_heading": false,
+        "color_scheme": "",
+        "image_overlay_opacity": 90,
+        "section_mask_overlay_color": "#000000",
+        "section_content_overlay_color": "#ffffff",
+        "height_desktop": "100",
+        "height_mobile": "100",
+        "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "video_hosted": "shopify://files/videos/Statement page banner.mov",
+        "badge_text": "One Of A Kind",
+        "badge_color": "color-accent-2",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--asterisk"
+      }
+    },
+    "header": {
+      "type": "main-collection-header",
+      "disabled": true,
+      "settings": {
+        "color_scheme": "",
+        "show_collection_image": true,
+        "show_description": true,
+        "remove_padding_top": true,
+        "remove_padding_bottom": true
+      }
+    },
+    "main": {
+      "type": "main-collection-products",
+      "custom_css": ["img {object-fit: cover;}"],
+      "settings": {
+        "color_scheme": "",
+        "items_per_row_on_desktop_horizontal": "3",
+        "items_per_row_on_desktop_vertical": "3",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "1",
+        "item_per_page": "24",
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "enable_filtering": false,
+        "expand_all_filter": false,
+        "enable_sort": false,
+        "desktop_filter_and_sort_layout": "horizontal"
+      }
+    },
+    "93f990be-986d-41cb-abf0-a354f39f9211": {
+      "type": "icon-with-text",
+      "blocks": {
+        "template--21698025226548__93f990be-986d-41cb-abf0-a354f39f9211-item-3": {
+          "type": "item",
+          "settings": {
+            "icon_source": "theme_library",
+            "options_icon": "three-dots",
+            "html_code": "",
+            "heading": "Disclaimer",
+            "description": "<p>Every Dorhe piece is handpicked and transformed using a range of techniques, ensuring that each garment is one-of-a-kind. The emphasis on unique, handcrafted pieces, experimentation with various techniques, and a commitment to self-expression through fashion contribute to a distinctive and authentic style. If your desired size isn't in stock, reach out to us for a personalized, custom-made creation. Every order is crafted by hand, making each piece a unique expression of style and individuality hence the final product may slightly differ from the picture.</p><p>Our creations are crafted by merging various repurposed clothing pieces, transforming them into unique canvases. Dorhe exclusively represents our brand and officially announced collaborators. We hold no affiliations or endorsements with any other brand names or logos that may appear on our clothing. </p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21698025226548__93f990be-986d-41cb-abf0-a354f39f9211-item-3"
+      ],
+      "custom_css": [".js-carousel-item {--w-md: 12 !important;}"],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "",
+        "description": "",
+        "icon_color": "color-accent-bg-1",
+        "items_per_row_on_desktop": "3",
+        "items_per_row_on_tablet": "3",
+        "content_align": "ta-center",
+        "enable_carousel": false,
+        "show_navigation": false,
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "button_main_text": "",
+        "button_main_link": "",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--star"
+      }
+    }
+  },
+  "order": [
+    "4d3b15ce-c387-4177-bf18-7b741bcbd923",
+    "header",
+    "main",
+    "93f990be-986d-41cb-abf0-a354f39f9211"
+  ]
+}
