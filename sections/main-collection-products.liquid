@@ -179,7 +179,7 @@
                   {% case filter.type %}
                     {% when 'boolean', 'list' %}
                       {%- assign filter_name = filter.label | downcase -%}
-                      <details class="js-details-filter filter-form__details pt-16 pb-16" data-index="{{ forloop.index }}" {{ open }}>
+                      <details class="js-details-filter filter-form__details pt-8 pb-8" data-index="{{ forloop.index }}" {{ open }}>
                         <summary class="filter-form__summary d-flex middle-xs between-xs h6 p-relative ls-none m-zero pt-16 pb-16 pl-0 pr-0 c-pointer">
                           {{ filter.label | escape }}
                           {{ accordion_icon }}
@@ -242,7 +242,7 @@
                         endif
 
                       %}
-                      <details class="js-details-filter filter-form__details pt-16 pb-16" data-index="{{ forloop.index }}" {{ open }}>
+                      <details class="js-details-filter filter-form__details pt-8 pb-8 filter-price" data-index="{{ forloop.index }}" {{ open }}>
                         <summary class="filter-form__summary d-flex middle-xs between-xs h6 p-relative ls-none m-zero c-pointer">
                           {{ filter.label | escape }}
                           {{ accordion_icon }}

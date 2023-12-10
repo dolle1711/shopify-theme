@@ -87,7 +87,7 @@
         "enable_carousel": false,
         "show_navigation": false,
         "remove_padding_top": false,
-        "remove_padding_bottom": false,
+        "remove_padding_bottom": true,
         "collection_list": [
           "jackets",
           "tshirt",
@@ -141,14 +141,14 @@
       "settings": {
         "color_scheme": "",
         "accent_scheme": "color-accent-1",
-        "speed": "30",
-        "enable_play": true,
+        "speed": "50",
+        "enable_play": false,
         "text": "Defy the Norm- Express Yourself- Redefine Fashion",
         "font_style": "marquee-font--heading",
         "text_size": "h3",
         "link": "",
-        "slope_style": "up",
-        "remove_padding_top": false,
+        "slope_style": "none",
+        "remove_padding_top": true,
         "remove_padding_bottom": false
       }
     },
