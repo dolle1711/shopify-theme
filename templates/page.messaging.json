@@ -127,10 +127,10 @@
       "settings": {
         "enable_large_heading": false,
         "color_scheme": "",
-        "image_overlay_opacity": 30,
+        "image_overlay_opacity": 90,
         "section_mask_overlay_color": "#000000",
         "section_content_overlay_color": "#ffffff",
-        "height_desktop": "100",
+        "height_desktop": "70",
         "height_mobile": "70",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "video_hosted": "shopify:\/\/files\/videos\/IMG_3194.mov",
