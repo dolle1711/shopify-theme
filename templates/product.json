@@ -108,7 +108,7 @@
         "items_per_row_on_mobile": "1",
         "enable_carousel": true,
         "show_navigation": true,
-        "remove_padding_top": false,
+        "remove_padding_top": true,
         "remove_padding_bottom": false
       }
     }
