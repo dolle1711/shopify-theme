@@ -35,7 +35,7 @@
   </script>
 {%- endif -%}
 <div class="main-product{{ settings.enable_breadcrumb | default: '' | replace: 'true', ' has-breadcrumb' }} has-animation section color-{{- section.settings.color_scheme }} {{ section.settings.remove_padding_top | replace: 'true', 'section-top-zero' | replace: section.settings.remove_padding_top, '' }} {{ section.settings.remove_padding_bottom | replace: 'true', 'section-bottom-zero' | replace: section.settings.remove_padding_bottom, '' }}" id="{{ section.id }}" data-ui-component="Main Product Section">
-  <div class="product-details c-gap-md top-xs d-grid gap-36 p-relative zi-1" style="--gtc-equal:1; --gtc-equal-md:2">
+  <div class="product-details c-gap-md top-xs d-grid gap-24 p-relative zi-1" style="--gtc-equal:1; --gtc-equal-md:2">
     <div class="product__media-wrapper {{ section.settings.width_on_large_screen }} w-100 o-hidden js-animate anm anm-zoomOut" role="region" aria-label="{{- 'accessibility.view_gallery' | t -}}">
       <a class="visually-hidden skip-to-content btn btn-primary d-block ta-center" href="#productInfo-{{ section.id }}">{{ 'accessibility.skip_to_product_information' | t }}</a>
       {%- if section.settings.desktop_media_layout == 'single_with_thumbnails' -%}
@@ -93,7 +93,7 @@
             {%- when 'title' -%}
             <div class="product__info ord-{{ forloop.index }} product__info--spacing product__title p-sides" {{ block.shopify_attributes }}>
               <div class="d-flex middle-xs between-xs">
-                <h1 class="h2 m-zero mr-8 wb-break-word">{{ product.title | escape }}</h1>
+                <h1 class="m-zero mt-8 mr-8 wb-break-word">{{ product.title | escape }}</h1>
                 {%- if block.settings.enable_share -%}
                   <sht-share-prd-btn class="zi-2 p-relative" data-product-url="{{ product.selected_variant.url | default: product.url | prepend: request.origin }}">
                     <div class="js-web-share-api-container" hidden><button class="btn btn-icon btn-small btn-secondary js-web-share-api-btn" aria-label="{{ 'accessibility.social_share' | t }}">{% render 'icon-share' %}</button></div>
@@ -118,7 +118,7 @@
             {%- when 'rating' -%}
             <div class="product__info ord-{{ forloop.index }} product__info--spacing product__rating p-sides" role="status" {{ block.shopify_attributes }}>{% render 'product-rating', product: product %}</div>
             {%- when 'price' -%}
-            <div class="product__info ord-{{ forloop.index }} product__prices  pt-16 pb-16 pr-12 pl-12 pr-md-20 pl-md-20" {{ block.shopify_attributes }}>
+            <div class="product__info ord-{{ forloop.index }} product__prices pt-8 pb-16 pr-12 pr-md-20" {{ block.shopify_attributes }}>
               <div class="d-flex top-xs fw-wrap c-gap-12" id="productPrice-{{ section.id }}" role="status">
                 {% render 'product-price', product: product, target: product.selected_or_first_available_variant, price_class: 'price--large', price_sale_bold: 'fw-700', price_style: 'h4 mr-16' %}
                 {% if product.selected_or_first_available_variant.compare_at_price > product.selected_or_first_available_variant.price and block.settings.show_sale_badge %}
@@ -504,11 +504,11 @@
                 </sht-prd-recom>
             </div>
             {%- when 'custom_text' -%}
-            <div class="product__info ord-{{ forloop.index }} p-sides hide-empty {{ block.settings.text_style | replace: 'color-light', 'color-light' | replace: 'body', 'color-text-regular' }} " {{ block.shopify_attributes }}>{{- block.settings.text -}}</div>
+              <div class="product__info ord-{{ forloop.index }} p-sides hide-empty {{ block.settings.text_style | replace: 'color-light', 'color-light' | replace: 'body', 'color-text-regular' }} " {{ block.shopify_attributes }}>{{- block.settings.text -}}</div>
             {%- when 'custom_liquid' -%}
-            <div class="product__info ord-{{ forloop.index }} p-sides hide-empty" {{ block.shopify_attributes }}>{{- block.settings.liquid_code -}}</div>
+              <div class="product__info custom-liquid ord-{{ forloop.index }} p-sides hide-empty" {{ block.shopify_attributes }}>{{- block.settings.liquid_code -}}</div>
             {%- when 'size_guide' -%}
-            {%- liquid
+              {%- liquid
                 assign size_guide_dialog_id = block.id | append: section.id | md5 | truncate: 12, ""
                 assign size_guide_block = block
                 assign size_guide_cta = 'disabled'
@@ -532,19 +532,19 @@
                   else
                     assign icon_svg = block.settings.html_code_size_guide
                   endif
-                  -%}
-                  {%- if icon_svg != '' -%}
-                    <div class="icon-custom--small custom-icon h-100 w-100 ml-8">{{- icon_svg -}}</div>
-                  {%- endif -%}
-            {% endcapture %}
-            <div class="product__info ord-{{ forloop.index }} p-sides" {{ block.shopify_attributes }}>
-              <button class="btn btn-large btn-link fs-body bs-none" type="button" aria-haspopup="dialog" onclick="window.dialogSizeGuide{{ size_guide_dialog_id }}.showModal(this, true)" {{ size_guide_cta }}>
-                {{- block.settings.heading -}}
-                {{ custom_icon_size_guide }}
-              </button>
-            </div>
+                -%}
+                {%- if icon_svg != '' -%}
+                  <div class="icon-custom--small custom-icon h-100 w-100 ml-8">{{- icon_svg -}}</div>
+                {%- endif -%}
+              {% endcapture %}
+              <div class="product__info product__size-guide ord-{{ forloop.index }} p-sides" {{ block.shopify_attributes }}>
+                <button class="btn btn-large btn-link fs-body bs-none" type="button" aria-haspopup="dialog" onclick="window.dialogSizeGuide{{ size_guide_dialog_id }}.showModal(this, true)" {{ size_guide_cta }}>
+                  {{- block.settings.heading -}}
+                  {{ custom_icon_size_guide }}
+                </button>
+              </div>
             {%- when 'popup_content' -%}
-            {%- liquid
+              {%- liquid
                 assign popup_content_dialog_id = block.id | append: section.id | md5 | truncate: 12, ""
                 assign popup_content_block = block
                 assign size_popup_content_cta = 'disabled'
@@ -552,9 +552,9 @@
                   assign size_popup_content_cta = ''
                 endif
               %}
-            <div class="product__info ord-{{ forloop.index }} p-sides" {{ block.shopify_attributes }}>
-              <button class="btn btn-link fs-body bs-none" type="button" aria-haspopup="dialog" onclick="window.dialogPopupContent{{ popup_content_dialog_id }}.showModal(this, true)" {{ size_popup_content_cta }}>{{- block.settings.text -}}</button>
-            </div>
+              <div class="product__info ord-{{ forloop.index }} p-sides" {{ block.shopify_attributes }}>
+                <button class="btn btn-link fs-body bs-none" type="button" aria-haspopup="dialog" onclick="window.dialogPopupContent{{ popup_content_dialog_id }}.showModal(this, true)" {{ size_popup_content_cta }}>{{- block.settings.text -}}</button>
+              </div>
           {%- endcase -%}
         {%- endfor -%}
       </div>

@@ -1,11 +1,14 @@
 {
   "sections": {
-    "breadcrumb": { "type": "breadcrumb", "settings": { "color_scheme": "" } },
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": { "type": "vendor", "settings": {} },
-        "title": { "type": "title", "settings": { "enable_share": true } },
+        "title": {
+          "type": "title",
+          "settings": {
+            "enable_share": true
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -13,21 +16,45 @@
             "show_tax_and_shipping_policy": true
           }
         },
+        "1c8811e1-c184-4648-9496-14ce6af16265": {
+          "type": "variants",
+          "settings": {
+            "show_stock_number": true,
+            "variant_picker_type": "button",
+            "enable_variant_swatches": true
+          }
+        },
+        "7f9b65ed-0834-46ef-bd15-02a5bfc84efb": {
+          "type": "size_guide",
+          "settings": {
+            "heading": "Size guide",
+            "content_source": "static-page",
+            "static_page": "",
+            "product_metafield_name": "",
+            "icon_source_size_guide": "theme_library",
+            "size_options_icon": "ruler",
+            "html_code_size_guide": ""
+          }
+        },
         "57661db9-a86d-431b-8d43-61d774cca4a1": {
           "type": "custom_liquid",
           "settings": {
-            "liquid_code": "{% capture product_url %}{{ shop.url }}{{ product.url }}{% endcapture %}\n{% capture product_name %}{{ product.title | url_escape }}{% endcapture %}\n<a href=\"https://wa.me/+918078654445?text=Hello\n, I%20would%20like%20to%20buy%20this%20product:%20{{ product_name }}%20{{ product_url }}\" class=\"btn btn--buy-on-whatsapp\" target=\"_blank\">Order on WhatsApp</a>"
+            "liquid_code": "{% capture product_url %}{{ shop.url }}{{ product.url }}{% endcapture %}\n{% capture product_name %}{{ product.title | url_escape }}{% endcapture %}\n<a href=\"https:\/\/wa.me\/+918078654445?text=Hello\n, I%20would%20like%20to%20buy%20this%20product:%20{{ product_name }}%20{{ product_url }}\" class=\"btn btn--buy-on-whatsapp\" target=\"_blank\">Order on WhatsApp<\/a>"
           }
         },
         "purchasing": {
           "type": "purchasing",
           "settings": {
-            "show_quantity_selector": "add-to-cart",
+            "show_quantity_selector": "always",
             "show_dynamic_checkout_buttons": true,
             "show_gift_card_recipient": false
           }
         },
-        "basic_description": { "type": "basic_description", "settings": {} },
+        "basic_description": {
+          "type": "basic_description",
+          "settings": {
+          }
+        },
         "pickup_availability": {
           "type": "pickup_availability",
           "settings": {
@@ -37,9 +64,10 @@
         }
       },
       "block_order": [
-        "vendor",
         "title",
         "price",
+        "1c8811e1-c184-4648-9496-14ce6af16265",
+        "7f9b65ed-0834-46ef-bd15-02a5bfc84efb",
         "57661db9-a86d-431b-8d43-61d774cca4a1",
         "purchasing",
         "basic_description",
@@ -54,8 +82,8 @@
         "color_scheme": "",
         "remove_padding_top": true,
         "remove_padding_bottom": false,
-        "media_ratio": "2/3",
-        "thumbnails_ratio": "1/1",
+        "media_ratio": "2\/3",
+        "thumbnails_ratio": "1\/1",
         "desktop_media_layout": "gallery_grid",
         "width_on_large_screen": "product__media-wrapper--full",
         "enable_pagination_mobile": true,
@@ -85,5 +113,8 @@
       }
     }
   },
-  "order": ["breadcrumb", "main", "product-recommendation"]
+  "order": [
+    "main",
+    "product-recommendation"
+  ]
 }

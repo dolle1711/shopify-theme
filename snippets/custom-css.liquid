@@ -7,7 +7,44 @@
         justify-content: end;
     }
 
+    .header__icons .btn-icon {
+        width: 36px;
+    }
+
+    .product__info.product__prices {
+        margin-top: 10px;
+        background-color: white;
+    }
+
+    .product__info.product__title h1 {
+        font-size: var(--heading-3);
+    }
+
+    .product__prices .price-item--last {
+        font-size: var(--heading-5);
+    }
+
+    .product__info.product__variants {
+        margin-top: 10px;
+    }
+
+    .product__info.product__size-guide {
+        margin-top: 10px;
+    }
+
+    .product__info.custom-liquid {
+        margin-top: 10px;
+    }
+
     @media (max-width: 768px) {
+        .product__info.product__title h1 {
+            font-size: var(--heading-4);
+        }
+
+        .product__info sht-share-prd-btn {
+            display: none;
+        }
+
         .header__icons .btn-icon {
             width: 30px;
         }
