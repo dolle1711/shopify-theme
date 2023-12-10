@@ -1,6 +1,47 @@
 {
   "sections": {
-    "breadcrumb": { "type": "breadcrumb", "settings": { "color_scheme": "" } },
+    "f2975b7b-a87f-41b8-bbcf-e65018b6a7ba": {
+      "type": "image-banner",
+      "blocks": {
+        "template--21749621883188__f2975b7b-a87f-41b8-bbcf-e65018b6a7ba-content-1": {
+          "type": "content",
+          "settings": {
+            "content_position": "end-xs top-xs ta-left content_position",
+            "subheading": "Shop",
+            "heading": "{{ collection.title }}",
+            "description": "",
+            "primary_button_label": "",
+            "primary_button_link": "",
+            "secondary_button_label": "",
+            "secondary_button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21749621883188__f2975b7b-a87f-41b8-bbcf-e65018b6a7ba-content-1"
+      ],
+      "settings": {
+        "enable_large_heading": false,
+        "color_scheme": "",
+        "section_overlay_opacity": 90,
+        "section_mask_overlay_color": "#000000",
+        "section_content_overlay_color": "#FFFFFF",
+        "height_desktop": "70",
+        "height_mobile": "70",
+        "desktop_background_image": "{{ collection.image }}",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--top-right",
+        "badge_shape": "badge--star"
+      }
+    },
+    "breadcrumb": {
+      "type": "breadcrumb",
+      "disabled": true,
+      "settings": {
+        "color_scheme": ""
+      }
+    },
     "9aea1a5b-2081-4bf7-80a6-77cd7f8c5b92": {
       "type": "image-with-text",
       "disabled": true,
@@ -10,12 +51,12 @@
         "content_alignment": "ta-left",
         "remove_padding_top": true,
         "remove_padding_bottom": true,
-        "primary_image": "shopify://shop_images/MAD08174copy.jpg",
+        "primary_image": "shopify:\/\/shop_images\/MAD08174copy.jpg",
         "primary_image_ratio": "landscape",
         "secondary_image_ratio": "portrait",
         "subheading": "",
         "heading": "Jackets",
-        "description": "<p> Iconic and timeless wardrobe staples that effortlessly blend fashion and functionality. One of the key attractions of our denim jackets lies in their ability to effortlessly complement a wide array of outfits. Whether paired with a simple t-shirt and jeans for a relaxed look or thrown over a floral dress.</p>",
+        "description": "<p> Iconic and timeless wardrobe staples that effortlessly blend fashion and functionality. One of the key attractions of our denim jackets lies in their ability to effortlessly complement a wide array of outfits. Whether paired with a simple t-shirt and jeans for a relaxed look or thrown over a floral dress.<\/p>",
         "button_main_text": "",
         "button_main_link": "",
         "button_sub_text": "",
@@ -28,9 +69,10 @@
     },
     "header": {
       "type": "main-collection-header",
+      "disabled": true,
       "settings": {
         "color_scheme": "",
-        "show_collection_image": true,
+        "show_collection_image": false,
         "show_description": true,
         "remove_padding_top": true,
         "remove_padding_bottom": true
@@ -55,6 +97,7 @@
     }
   },
   "order": [
+    "f2975b7b-a87f-41b8-bbcf-e65018b6a7ba",
     "breadcrumb",
     "9aea1a5b-2081-4bf7-80a6-77cd7f8c5b92",
     "header",

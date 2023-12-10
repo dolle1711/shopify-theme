@@ -34,7 +34,8 @@
       section: section
     %}
   {% if section.settings.enable_full_width_content %}</div>{% endif %}
-  <div class="s-content d-grid gap-1 ctclg--{{ section.settings.items_ordering }}{{ stacked_class }} {% if section.settings.enable_full_width_content %} h-sm-100v {% endif %}" {{ size_style }}>
+  {% if section.blocks.size > 0 %}
+    <div class="s-content d-grid gap-1 ctclg--{{ section.settings.items_ordering }}{{ stacked_class }} {% if section.settings.enable_full_width_content %} h-sm-100v {% endif %}" {{ size_style }}>
       {%- for block in section.blocks -%}
         {%-  liquid
           assign loading = "lazy"
@@ -141,6 +142,7 @@
         {% endcase %}
       {%- endfor -%}
     </div>
+  {% endif %}
   {% unless section.settings.enable_full_width_content %}</div>{% endunless %}
 </div>
 
