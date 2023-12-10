@@ -598,6 +598,16 @@
   render 'js-loader', files: "component-add-to-cart.js" | split: ', '
   render 'product-google-snippet', product: product
 -%}
+
+{% if section.settings.desktop_media_layout == "gallery_grid" %}
+  <style>
+    .product__info-wrapper {
+      position: sticky;
+      top: 20px;
+    }
+  </style>
+{% endif %}
+
 {% schema %}
 {
   "name": "t:sections.main_product.name",
