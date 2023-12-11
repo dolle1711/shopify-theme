@@ -48,6 +48,28 @@
         background-color: black;
     }
 
+    .show-desktop {
+        display: block;
+    }
+
+    .show-mobile {
+        display: none;
+    }
+
+    footer {
+        background-color: #0f64a1 !important;
+        color: white !important;
+    }
+
+    footer .back-to-top button {
+        color: white;
+    }
+
+    .section, .shopify-policy__container {
+        padding-bottom: calc(var(--spacing) * 4);
+        padding-top: calc(var(--spacing) * 4);
+    }
+
     @media (max-width: 768px) {
         .product__info.product__title h1 {
             font-size: var(--heading-4);
@@ -64,6 +86,14 @@
         .header-logo {
             margin-left: 50%;
             transform: translateX(-50%);
+        }
+
+        .show-desktop {
+            display: none;
+        }
+
+        .show-mobile {
+            display: block;
         }
     }
 </style>

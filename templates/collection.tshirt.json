@@ -25,10 +25,10 @@
         "color_scheme": "",
         "section_overlay_opacity": 60,
         "section_mask_overlay_color": "#000000",
-        "section_content_overlay_color": "#FFFFFF",
-        "height_desktop": "100",
+        "section_content_overlay_color": "#ffffff",
+        "height_desktop": "70",
         "height_mobile": "70",
-        "desktop_background_image": "shopify://shop_images/MAD00209.jpg",
+        "desktop_background_image": "shopify:\/\/shop_images\/MAD00209.jpg",
         "badge_text": "",
         "badge_color": "color-accent-1",
         "badge_position": "p-badge--top-right",
@@ -64,5 +64,9 @@
       }
     }
   },
-  "order": ["1864cd1c-cd1a-4748-aca4-35c8cbab3cd1", "header", "main"]
+  "order": [
+    "1864cd1c-cd1a-4748-aca4-35c8cbab3cd1",
+    "header",
+    "main"
+  ]
 }

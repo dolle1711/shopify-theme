@@ -1,32 +1,35 @@
 {
   "sections": {
+    "e780c1e3-c586-442d-b412-72ae9f5b1d36": {
+      "type": "text",
+      "settings": {
+        "color_scheme": "",
+        "content_alignment": "ta-center m-auto",
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
+        "subheading": "",
+        "heading": "Break the mold, rebel in style",
+        "heading_size": "headline",
+        "description": "<p>We're more than just a fashion brand; think of us as your community, where your adventure finds beauty in the delightful chaos we create together.<\/p>",
+        "button_main_text": "",
+        "button_main_link": "",
+        "button_sub_text": "",
+        "button_sub_link": "",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--star"
+      }
+    },
     "3f10be4b-ab03-4799-9809-ff7489345516": {
       "type": "image-banner",
-      "blocks": {
-        "template--21749622636852__3f10be4b-ab03-4799-9809-ff7489345516-content-1": {
-          "type": "content",
-          "settings": {
-            "content_position": "center-xs middle-xs ta-center",
-            "subheading": "",
-            "heading": "Break the Mold, Rebel in Style",
-            "description": "<p>Our story began with a single jacket—we had this wild urge to wear our emotions as loud as a rock concert. It took us two days, but what emerged was more than just a piece of clothing; it was our fashion rebellion in the making. That’s Dorhe for you.<\/p>",
-            "primary_button_label": "",
-            "primary_button_link": "",
-            "secondary_button_label": "",
-            "secondary_button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21749622636852__3f10be4b-ab03-4799-9809-ff7489345516-content-1"
-      ],
       "settings": {
         "enable_large_heading": false,
         "color_scheme": "",
-        "section_overlay_opacity": 30,
+        "section_overlay_opacity": 90,
         "section_mask_overlay_color": "#000000",
         "section_content_overlay_color": "#ffffff",
-        "height_desktop": "100",
+        "height_desktop": "70",
         "height_mobile": "70",
         "desktop_background_image": "shopify:\/\/shop_images\/Our_story_2.heic",
         "badge_text": "",
@@ -35,109 +38,25 @@
         "badge_shape": "badge--star"
       }
     },
-    "8476ece8-546d-4585-b1e9-c518395f79c8": {
-      "type": "running-text",
+    "5110ab97-f770-4903-8432-3043bd98c68a": {
+      "type": "text",
       "settings": {
         "color_scheme": "",
-        "accent_scheme": "color-accent-2",
-        "speed": "20",
-        "enable_play": false,
-        "text": "Do X Rhe",
-        "font_style": "marquee-font--body",
-        "text_size": "h3",
-        "link": "",
-        "slope_style": "down",
-        "remove_padding_top": true,
-        "remove_padding_bottom": true
-      }
-    },
-    "1ed5bafe-920f-4d4b-a046-7d9198c88f1a": {
-      "type": "content-collage",
-      "custom_css": [
-        ".text-block {margin-right: auto; margin-left: auto;}"
-      ],
-      "settings": {
-        "color_scheme": "",
+        "content_alignment": "ta-center m-auto",
+        "remove_padding_top": false,
+        "remove_padding_bottom": false,
         "subheading": "",
-        "heading": "",
-        "description": "Our journey kicked off with a lone jacket -a wild craving to flaunt our emotions as boldly as a rock concert. Two days later, what emerged wasn't just apparel; it was the birth of our fashion rebellion. From the get-go, we've seen fashion as a tool for your messy, wild, and chaotic self-expression. It's your savior when words fall short.Dorhe isn't just outfits; it's a platform to flaunt the beautiful mess within each of us. Our designs? An artistic fusion of collages, layered textures, and diverse techniques, letting you channel your inner clutter.We're a bunch of mad fashion scientists, experimentalists at heart, creating products as unique and authentic as our thoughts. Nothing's planned; it's all born in the moment.We’re on a mission to stir up a blitz, our archive has something for every mood – from modest to the wildest. No matter what you're feeling today, there's an outfit that gets you.We're a handcrafted streetwear label, always playing chaotically with denim. Here for those who dare to voice their bold, genuine selves. We're more than just a fashion brand; think of us as your community, where your adventure finds beauty in the delightful chaos we create together. With Dorhe,Dare to be Different. Own The Chaos. Join the Rebellion!",
-        "enable_full_width_content": true,
-        "content_alignment": "ta-center",
-        "items_ordering": "equal",
-        "enable_stacked_layout": true,
-        "remove_padding_top": true,
-        "remove_padding_bottom": true,
-        "image_ratio": "4\/5",
-        "show_items_button": true,
+        "heading": "About Us",
+        "heading_size": "h2",
+        "description": "<p>Our journey kicked off with a lone jacket -a wild craving to flaunt our emotions as boldly as a rock concert. Two days later, what emerged wasn't just apparel; it was the birth of our fashion rebellion. From the get-go, we've seen fashion as a tool for your messy, wild, and chaotic self-expression. It's your savior when words fall short. Dorhe isn't just outfits; it's a platform to flaunt the beautiful mess within each of us. Our designs? An artistic fusion of collages, layered textures, and <br\/>diverse techniques, letting you channel your inner clutter.<\/p><p>We're a bunch of mad fashion scientists, experimentalists at heart, creating products as unique and authentic as our thoughts. Nothing's planned; it's all born in the moment.We’re on a mission to stir up a blitz, our archive has something for every mood – from modest to the wildest. No matter what you're feeling today, there's an outfit that gets you. We're a handcrafted streetwear label, always playing chaotically with denim. Here for those who dare to voice their bold, genuine selves. We're more than just a fashion brand; think of us as your community, where your adventure finds beauty in the delightful chaos we create together. With Dorhe, Dare to be Different. Own The Chaos. Join the Rebellion!<\/p>",
+        "button_main_text": "",
+        "button_main_link": "",
+        "button_sub_text": "",
+        "button_sub_link": "",
         "badge_text": "",
         "badge_color": "color-accent-1",
         "badge_position": "p-badge--bottom-right",
         "badge_shape": "badge--star"
-      }
-    },
-    "688e9dea-32bd-4a12-a1d8-f59fd6e742b7": {
-      "type": "collection-list",
-      "settings": {
-        "color_scheme": "",
-        "subheading": "Hot Sellers",
-        "heading": "Our collections",
-        "description": "",
-        "items_per_row_on_desktop": "4",
-        "items_per_row_on_tablet": "3",
-        "items_per_row_on_mobile": "2",
-        "content_align": "ta-left",
-        "enable_carousel": true,
-        "show_navigation": false,
-        "remove_padding_top": false,
-        "remove_padding_bottom": false,
-        "collection_list": [
-          "artsy-street-vibes",
-          "patchwork-harmony",
-          "urban-muse",
-          "rose-rebel"
-        ],
-        "enable_view_all": false,
-        "button_main_text": "",
-        "badge_text": "Fresh looks",
-        "badge_color": "color-accent-1",
-        "badge_position": "p-badge--bottom-right",
-        "badge_shape": "badge--asterisk"
-      }
-    },
-    "5d43c696-f611-47ea-92fa-292836d92b5c": {
-      "type": "video-banner",
-      "blocks": {
-        "template--21624382783796__5d43c696-f611-47ea-92fa-292836d92b5c-content-1": {
-          "type": "content",
-          "settings": {
-            "content_position": "center-xs middle-xs ta-center",
-            "subheading": "Explore our statements",
-            "heading": "be a part of our Journey",
-            "description": "",
-            "primary_button_label": "Shop Dorhe Statement",
-            "primary_button_link": "shopify:\/\/collections\/our-statements",
-            "secondary_button_label": "",
-            "secondary_button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21624382783796__5d43c696-f611-47ea-92fa-292836d92b5c-content-1"
-      ],
-      "settings": {
-        "enable_large_heading": false,
-        "color_scheme": "",
-        "image_overlay_opacity": 90,
-        "section_mask_overlay_color": "#000000",
-        "section_content_overlay_color": "#ffffff",
-        "height_desktop": "70",
-        "height_mobile": "70",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "video_hosted": "shopify:\/\/files\/videos\/IMG_3194.mov",
-        "badge_text": "",
-        "badge_color": "color-accent-1",
-        "badge_position": "p-badge--top-right",
-        "badge_shape": "badge--asterisk"
       }
     },
     "main": {
@@ -149,355 +68,12 @@
         "remove_padding_top": true,
         "remove_padding_bottom": false
       }
-    },
-    "1112ab60-f44f-49d6-88a9-711c7695312b": {
-      "type": "hero-image-with-text",
-      "disabled": true,
-      "settings": {
-        "color_scheme": "",
-        "content_align": "ta-left",
-        "remove_padding_top": false,
-        "remove_padding_bottom": false,
-        "subheading": "Our Message",
-        "heading": "What Do we stand for",
-        "description": "<p>Our story began with a single jacket—we had this wild urge to wear our emotions as loud as a rock concert. It took us two days, but what emerged was more than just a piece of clothing; it was our fashion rebellion in the making. That’s Dorhe for you.<br\/><\/p>",
-        "image_ratio": "2\/3",
-        "button_main_text": "View Collections",
-        "button_main_link": "shopify:\/\/pages\/our-collection",
-        "button_sub_text": "Submit a custom request",
-        "button_sub_link": "shopify:\/\/pages\/custom-request",
-        "badge_text": "",
-        "badge_color": "color-accent-2",
-        "badge_position": "p-badge--bottom-right",
-        "badge_shape": "badge--star",
-        "enable_collections": false,
-        "heading_collections": "Shop Dorhe Statement",
-        "collection_list": [
-          "bedazzled",
-          "goth",
-          "upcycled",
-          "one-of-one",
-          "dopamine"
-        ],
-        "enable_view_all": false,
-        "button_text": "View all",
-        "show_navigation": true
-      }
-    },
-    "aeef06f8-b048-4c8a-aff3-38d64bfe49b0": {
-      "type": "icon-with-text",
-      "blocks": {
-        "template--21624382783796__aeef06f8-b048-4c8a-aff3-38d64bfe49b0-item-1": {
-          "type": "item",
-          "settings": {
-            "icon_source": "theme_library",
-            "options_icon": "protect",
-            "html_code": "",
-            "heading": "Authenticity",
-            "description": ""
-          }
-        },
-        "template--21624382783796__aeef06f8-b048-4c8a-aff3-38d64bfe49b0-item-2": {
-          "type": "item",
-          "settings": {
-            "icon_source": "theme_library",
-            "options_icon": "3d-model",
-            "html_code": "",
-            "heading": "Experimentation",
-            "description": ""
-          }
-        },
-        "template--21624382783796__aeef06f8-b048-4c8a-aff3-38d64bfe49b0-item-3": {
-          "type": "item",
-          "settings": {
-            "icon_source": "theme_library",
-            "options_icon": "half-star",
-            "html_code": "",
-            "heading": "Passion",
-            "description": ""
-          }
-        },
-        "template--21624382783796__aeef06f8-b048-4c8a-aff3-38d64bfe49b0-item-4": {
-          "type": "item",
-          "settings": {
-            "icon_source": "theme_library",
-            "options_icon": "3d-model",
-            "html_code": "",
-            "heading": "Uniqueness",
-            "description": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21624382783796__aeef06f8-b048-4c8a-aff3-38d64bfe49b0-item-1",
-        "template--21624382783796__aeef06f8-b048-4c8a-aff3-38d64bfe49b0-item-2",
-        "template--21624382783796__aeef06f8-b048-4c8a-aff3-38d64bfe49b0-item-3",
-        "template--21624382783796__aeef06f8-b048-4c8a-aff3-38d64bfe49b0-item-4"
-      ],
-      "disabled": true,
-      "custom_css": [
-
-      ],
-      "settings": {
-        "color_scheme": "",
-        "subheading": "What we stand for",
-        "heading": "Our Values",
-        "description": "",
-        "icon_color": "color-accent-bg-1",
-        "items_per_row_on_desktop": "4",
-        "items_per_row_on_tablet": "3",
-        "content_align": "ta-left",
-        "enable_carousel": false,
-        "show_navigation": false,
-        "remove_padding_top": false,
-        "remove_padding_bottom": false,
-        "button_main_text": "",
-        "button_main_link": "",
-        "badge_text": "",
-        "badge_color": "color-accent-1",
-        "badge_position": "p-badge--bottom-right",
-        "badge_shape": "badge--star"
-      }
-    },
-    "b53b371d-f527-4a3b-867f-3b1f8222be9c": {
-      "type": "testimonials",
-      "blocks": {
-        "template--21749622636852__b53b371d-f527-4a3b-867f-3b1f8222be9c-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "name": "Author's Name",
-            "job_title": "Loyal Customer",
-            "text": "Add customer reviews and testimonials to showcase your store's happy customers."
-          }
-        },
-        "template--21749622636852__b53b371d-f527-4a3b-867f-3b1f8222be9c-testimonial-2": {
-          "type": "testimonial",
-          "settings": {
-            "name": "Author's Name",
-            "job_title": "Loyal Customer",
-            "text": "Add customer reviews and testimonials to showcase your store's happy customers."
-          }
-        },
-        "template--21749622636852__b53b371d-f527-4a3b-867f-3b1f8222be9c-testimonial-3": {
-          "type": "testimonial",
-          "settings": {
-            "name": "Author's Name",
-            "job_title": "Loyal Customer",
-            "text": "Add customer reviews and testimonials to showcase your store's happy customers."
-          }
-        },
-        "template--21749622636852__b53b371d-f527-4a3b-867f-3b1f8222be9c-testimonial-4": {
-          "type": "testimonial",
-          "settings": {
-            "name": "Author's Name",
-            "job_title": "Loyal Customer",
-            "text": "Add customer reviews and testimonials to showcase your store's happy customers."
-          }
-        },
-        "template--21749622636852__b53b371d-f527-4a3b-867f-3b1f8222be9c-testimonial-5": {
-          "type": "testimonial",
-          "settings": {
-            "name": "Author's Name",
-            "job_title": "Loyal Customer",
-            "text": "Add customer reviews and testimonials to showcase your store's happy customers."
-          }
-        }
-      },
-      "block_order": [
-        "template--21749622636852__b53b371d-f527-4a3b-867f-3b1f8222be9c-testimonial-1",
-        "template--21749622636852__b53b371d-f527-4a3b-867f-3b1f8222be9c-testimonial-2",
-        "template--21749622636852__b53b371d-f527-4a3b-867f-3b1f8222be9c-testimonial-3",
-        "template--21749622636852__b53b371d-f527-4a3b-867f-3b1f8222be9c-testimonial-4",
-        "template--21749622636852__b53b371d-f527-4a3b-867f-3b1f8222be9c-testimonial-5"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "section_mask_overlay_color": "#000000",
-        "image_overlay_opacity": 30,
-        "subheading": "",
-        "heading": "What people say about Us",
-        "description": "",
-        "items_per_row_on_desktop": "4",
-        "items_per_row_on_tablet": "3",
-        "content_align": "ta-left",
-        "enable_carousel": true,
-        "show_navigation": true,
-        "remove_padding_top": false,
-        "remove_padding_bottom": false,
-        "icon_color": "color-accent-bg-2",
-        "badge_text": "",
-        "badge_color": "color-accent-1",
-        "badge_position": "p-badge--bottom-right",
-        "badge_shape": "badge--star"
-      }
-    },
-    "3a57b488-0d5b-4ad6-a862-393afc386c61": {
-      "type": "slideshow",
-      "blocks": {
-        "template--21624382783796__3a57b488-0d5b-4ad6-a862-393afc386c61-slide-1": {
-          "type": "slide",
-          "settings": {
-            "image_overlay_opacity": 30,
-            "slide_mask_overlay_color": "#000000",
-            "slide_content_overlay_color": "#ffffff",
-            "sub_heading": "",
-            "heading": "",
-            "description": "",
-            "desktop_image": "shopify:\/\/shop_images\/Our_story_1.heic",
-            "primary_button_label": "",
-            "primary_button_link": "",
-            "secondary_button_label": "",
-            "secondary_button_link": ""
-          }
-        },
-        "template--21624382783796__3a57b488-0d5b-4ad6-a862-393afc386c61-slide-3": {
-          "type": "slide",
-          "settings": {
-            "image_overlay_opacity": 30,
-            "slide_mask_overlay_color": "#000000",
-            "slide_content_overlay_color": "#ffffff",
-            "sub_heading": "",
-            "heading": "",
-            "description": "",
-            "desktop_image": "shopify:\/\/shop_images\/Our_story_2.heic",
-            "primary_button_label": "",
-            "primary_button_link": "",
-            "secondary_button_label": "",
-            "secondary_button_link": ""
-          }
-        },
-        "template--21624382783796__3a57b488-0d5b-4ad6-a862-393afc386c61-slide-2": {
-          "type": "slide",
-          "settings": {
-            "image_overlay_opacity": 30,
-            "slide_mask_overlay_color": "#000000",
-            "slide_content_overlay_color": "#ffffff",
-            "sub_heading": "",
-            "heading": "",
-            "description": "",
-            "desktop_image": "shopify:\/\/shop_images\/Our_story_3.heic",
-            "primary_button_label": "",
-            "primary_button_link": "",
-            "secondary_button_label": "",
-            "secondary_button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21624382783796__3a57b488-0d5b-4ad6-a862-393afc386c61-slide-1",
-        "template--21624382783796__3a57b488-0d5b-4ad6-a862-393afc386c61-slide-3",
-        "template--21624382783796__3a57b488-0d5b-4ad6-a862-393afc386c61-slide-2"
-      ],
-      "custom_css": [
-        "button,span {color: #f1f1f1;}"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "enable_large_heading": true,
-        "height_desktop": "70",
-        "height_mobile": "50",
-        "enable_pagination": false,
-        "enable_navigation": true,
-        "enable_autoplay": true,
-        "delay": 5,
-        "content_position": "center",
-        "accessibility_content": "Slideshow about our brand"
-      }
-    },
-    "55ee9e5f-2a2c-49e9-b602-4aae4f4382bc": {
-      "type": "collapsible-content",
-      "blocks": {
-        "template--21749622636852__55ee9e5f-2a2c-49e9-b602-4aae4f4382bc-content-1": {
-          "type": "content",
-          "settings": {
-            "block_heading": "Collapsible row",
-            "description": "<p>Write content to help customers understand your products or policies<\/p>",
-            "page": "",
-            "icon_source": "theme_library",
-            "options_icon": "check",
-            "html_code": ""
-          }
-        },
-        "template--21749622636852__55ee9e5f-2a2c-49e9-b602-4aae4f4382bc-content-2": {
-          "type": "content",
-          "settings": {
-            "block_heading": "Collapsible row",
-            "description": "<p>Write content to help customers understand your products or policies<\/p>",
-            "page": "",
-            "icon_source": "theme_library",
-            "options_icon": "check",
-            "html_code": ""
-          }
-        },
-        "template--21749622636852__55ee9e5f-2a2c-49e9-b602-4aae4f4382bc-content-3": {
-          "type": "content",
-          "settings": {
-            "block_heading": "Collapsible row",
-            "description": "<p>Write content to help customers understand your products or policies<\/p>",
-            "page": "",
-            "icon_source": "theme_library",
-            "options_icon": "check",
-            "html_code": ""
-          }
-        },
-        "template--21749622636852__55ee9e5f-2a2c-49e9-b602-4aae4f4382bc-content-4": {
-          "type": "content",
-          "settings": {
-            "block_heading": "Collapsible row",
-            "description": "<p>Write content to help customers understand your products or policies<\/p>",
-            "page": "",
-            "icon_source": "theme_library",
-            "options_icon": "check",
-            "html_code": ""
-          }
-        },
-        "template--21749622636852__55ee9e5f-2a2c-49e9-b602-4aae4f4382bc-content-5": {
-          "type": "content",
-          "settings": {
-            "block_heading": "Collapsible row",
-            "description": "<p>Write content to help customers understand your products or policies<\/p>",
-            "page": "",
-            "icon_source": "theme_library",
-            "options_icon": "check",
-            "html_code": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--21749622636852__55ee9e5f-2a2c-49e9-b602-4aae4f4382bc-content-1",
-        "template--21749622636852__55ee9e5f-2a2c-49e9-b602-4aae4f4382bc-content-2",
-        "template--21749622636852__55ee9e5f-2a2c-49e9-b602-4aae4f4382bc-content-3",
-        "template--21749622636852__55ee9e5f-2a2c-49e9-b602-4aae4f4382bc-content-4",
-        "template--21749622636852__55ee9e5f-2a2c-49e9-b602-4aae4f4382bc-content-5"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "subheading": "",
-        "heading": "FAQ",
-        "description": "",
-        "content_alignment": "ta-center m-auto",
-        "content_ordering": "text_first",
-        "remove_padding_top": false,
-        "remove_padding_bottom": false,
-        "image_ratio": "2\/3",
-        "btn_text": "",
-        "btn_link": "",
-        "show_icon": true,
-        "expand_first_item_initially": true
-      }
     }
   },
   "order": [
+    "e780c1e3-c586-442d-b412-72ae9f5b1d36",
     "3f10be4b-ab03-4799-9809-ff7489345516",
-    "8476ece8-546d-4585-b1e9-c518395f79c8",
-    "1ed5bafe-920f-4d4b-a046-7d9198c88f1a",
-    "688e9dea-32bd-4a12-a1d8-f59fd6e742b7",
-    "5d43c696-f611-47ea-92fa-292836d92b5c",
-    "main",
-    "1112ab60-f44f-49d6-88a9-711c7695312b",
-    "aeef06f8-b048-4c8a-aff3-38d64bfe49b0",
-    "b53b371d-f527-4a3b-867f-3b1f8222be9c",
-    "3a57b488-0d5b-4ad6-a862-393afc386c61",
-    "55ee9e5f-2a2c-49e9-b602-4aae4f4382bc"
+    "5110ab97-f770-4903-8432-3043bd98c68a",
+    "main"
   ]
 }

@@ -83,6 +83,9 @@
         },
         "header_hosted_video": {
           "content": "Shopify-hosted video"
+        },
+        "header_hosted_video_mobile": {
+          "content": "Shopify-hosted video mobile"
         }
       },
       "image_ratio": {

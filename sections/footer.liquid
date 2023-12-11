@@ -7,10 +7,10 @@
     render 'icon-chevron-down', class: 'ml-8 fs-0 d-none-md '
   endcapture
 -%}
-<footer class="ctnr js-footer pt-48 pb-84 color-{{ section.settings.color_scheme }} {{ section.settings.remove_padding_top | replace: 'false', 'section-top-zero' | replace: section.settings.remove_padding_top, '' }} {{ section.settings.remove_padding_bottom | replace: 'true', 'section-bottom-zero' | replace: section.settings.remove_padding_bottom, '' }} {% render 'animation-loader', section: section %}" data-ui-component="Section Footer">
+<footer class="ctnr js-footer pt-48 pb-24 color-{{ section.settings.color_scheme }} {{ section.settings.remove_padding_top | replace: 'false', 'section-top-zero' | replace: section.settings.remove_padding_top, '' }} {{ section.settings.remove_padding_bottom | replace: 'true', 'section-bottom-zero' | replace: section.settings.remove_padding_bottom, '' }} {% render 'animation-loader', section: section %}" data-ui-component="Section Footer">
   <div class="rw center-xs start-lg">
-    <div class="clm {{ section.settings.enable_back_to_top | default: 'd-none' | replace: 'true', '' }}" style="--w-xs: 12; --w-sm: 10; --w-lg: 12;">
-      <button onclick="SHTHelper.qde.scrollTo({top: 0, behavior: `smooth`});" class="mb-64 pt-lg-12 pb-lg-12 btn btn-link btn-small padding--start js-back-to-top-btn">
+    <div class="clm back-to-top {{ section.settings.enable_back_to_top | default: 'd-none' | replace: 'true', '' }}" style="--w-xs: 12; --w-sm: 10; --w-lg: 12;">
+      <button onclick="SHTHelper.qde.scrollTo({top: 0, behavior: `smooth`});" class="mb-24 pt-lg-12 pb-lg-12 btn btn-link btn-small padding--start js-back-to-top-btn">
         {{ 'sections.footer.back_to_top' | t }}
         {% render 'icon-arrow-up', size: 16, class: 'ml-8' %}
       </button>
@@ -134,7 +134,7 @@
       {%- endif -%}
     </div>
   </div>
-  <div class="footer__content__bottom m-auto d-flex center-xs fd-column middle-xs mt-lg-64 gap-24 c-gap-lg-48 r-gap-lg-4 fd-row-lg between-lg fw-wrap">
+  <div class="footer__content__bottom m-auto d-flex center-xs fd-column middle-xs mt-lg-24 gap-24 c-gap-lg-48 r-gap-lg-4 fd-row-lg between-lg fw-wrap">
     <div class="d-flex fd-column center-xs middle-xs fd-row-lg hide-empty">
       <div class="footer-localization w-100 d-flex gap-16 fw-wrap hide-empty p-sides mb-64 mb-lg-0 pr-lg-24 flex-1 center-xs">
         {%- if section.settings.show_currency_selector and localization.available_countries.size > 1 -%}

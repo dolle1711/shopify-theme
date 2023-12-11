@@ -33,6 +33,7 @@
         "height_mobile": "100",
         "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
         "video_hosted": "shopify:\/\/files\/videos\/First page banner_ddceed23-cf38-418d-b530-6059c6b0f1c3.mov",
+        "video_hosted_mobile": "shopify:\/\/files\/videos\/Statement product 3_f61e0e00-8397-456f-aec1-fd0a8f338cae.mov",
         "badge_text": "",
         "badge_color": "color-accent-1",
         "badge_position": "p-badge--top-left",
@@ -71,35 +72,6 @@
         "enable_view_all": false,
         "button_text": "See all collections",
         "show_navigation": true
-      }
-    },
-    "6c2cfd6c-1e05-4985-a75b-a39edb3ca366": {
-      "type": "collection-list",
-      "settings": {
-        "color_scheme": "",
-        "subheading": "",
-        "heading": "SHOP BY CATEGORY",
-        "description": "",
-        "items_per_row_on_desktop": "4",
-        "items_per_row_on_tablet": "3",
-        "items_per_row_on_mobile": "2",
-        "content_align": "ta-center m-auto",
-        "enable_carousel": false,
-        "show_navigation": false,
-        "remove_padding_top": false,
-        "remove_padding_bottom": true,
-        "collection_list": [
-          "jackets",
-          "tshirt",
-          "jeans",
-          "tops"
-        ],
-        "enable_view_all": false,
-        "button_main_text": "View all collections",
-        "badge_text": "",
-        "badge_color": "color-accent-1",
-        "badge_position": "p-badge--bottom-right",
-        "badge_shape": "badge--star"
       }
     },
     "1aaeee5d-8c31-4bf4-9684-96dd3c0c4e70": {
@@ -230,6 +202,35 @@
         "badge_shape": "badge--asterisk"
       }
     },
+    "6c2cfd6c-1e05-4985-a75b-a39edb3ca366": {
+      "type": "collection-list",
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "SHOP BY CATEGORY",
+        "description": "",
+        "items_per_row_on_desktop": "4",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "2",
+        "content_align": "ta-center m-auto",
+        "enable_carousel": false,
+        "show_navigation": false,
+        "remove_padding_top": false,
+        "remove_padding_bottom": true,
+        "collection_list": [
+          "jackets",
+          "tshirt",
+          "jeans",
+          "tops"
+        ],
+        "enable_view_all": false,
+        "button_main_text": "View all collections",
+        "badge_text": "",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-right",
+        "badge_shape": "badge--star"
+      }
+    },
     "8ed25c8b-0b7b-4c95-81a7-3425aeeed94d": {
       "type": "image-with-text",
       "custom_css": [
@@ -268,7 +269,7 @@
         "enable_large_heading": false,
         "content_alignment": "ta-left",
         "remove_padding_top": false,
-        "remove_padding_bottom": false,
+        "remove_padding_bottom": true,
         "primary_image": "shopify:\/\/shop_images\/MAD09539.jpg",
         "primary_image_ratio": "portrait",
         "secondary_image": "shopify:\/\/shop_images\/MAD09449_92eb62f0-15d6-46be-87b1-3aab900d7f93.jpg",
@@ -284,6 +285,40 @@
         "badge_color": "color-accent-1",
         "badge_position": "p-badge--bottom-right",
         "badge_shape": "badge--star"
+      }
+    },
+    "dc45118a-6cf3-4f1b-9dcd-7c4e0fc35cc7": {
+      "type": "collection-list",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "color_scheme": "",
+        "subheading": "",
+        "heading": "Our Collections",
+        "description": "",
+        "items_per_row_on_desktop": "4",
+        "items_per_row_on_tablet": "3",
+        "items_per_row_on_mobile": "1",
+        "content_align": "ta-left",
+        "enable_carousel": true,
+        "show_navigation": false,
+        "remove_padding_top": false,
+        "remove_padding_bottom": true,
+        "collection_list": [
+          "artsy-street-vibes",
+          "patchwork-harmony",
+          "rebellious-boho",
+          "rose-rebel",
+          "urban-edge",
+          "urban-muse"
+        ],
+        "enable_view_all": false,
+        "button_main_text": "View all collections",
+        "badge_text": "Well Thought",
+        "badge_color": "color-accent-1",
+        "badge_position": "p-badge--bottom-left",
+        "badge_shape": "badge--asterisk"
       }
     },
     "0549657b-0d08-46e3-8ece-181cde92aeb5": {
@@ -395,40 +430,6 @@
         "badge_color": "color-accent-1",
         "badge_position": "p-badge--bottom-right",
         "badge_shape": "badge--star"
-      }
-    },
-    "dc45118a-6cf3-4f1b-9dcd-7c4e0fc35cc7": {
-      "type": "collection-list",
-      "custom_css": [
-
-      ],
-      "settings": {
-        "color_scheme": "",
-        "subheading": "",
-        "heading": "Our Collections",
-        "description": "",
-        "items_per_row_on_desktop": "4",
-        "items_per_row_on_tablet": "3",
-        "items_per_row_on_mobile": "1",
-        "content_align": "ta-left",
-        "enable_carousel": true,
-        "show_navigation": false,
-        "remove_padding_top": false,
-        "remove_padding_bottom": true,
-        "collection_list": [
-          "artsy-street-vibes",
-          "patchwork-harmony",
-          "rebellious-boho",
-          "rose-rebel",
-          "urban-edge",
-          "urban-muse"
-        ],
-        "enable_view_all": false,
-        "button_main_text": "View all collections",
-        "badge_text": "Well Thought",
-        "badge_color": "color-accent-1",
-        "badge_position": "p-badge--bottom-left",
-        "badge_shape": "badge--asterisk"
       }
     },
     "83e1ac7a-591f-4f13-8654-a6e1f8167f2d": {
@@ -562,7 +563,7 @@
       "settings": {
         "color_scheme": "",
         "enable_large_heading": false,
-        "content_alignment": "ta-left",
+        "content_alignment": "ta-right",
         "remove_padding_top": true,
         "remove_padding_bottom": true,
         "primary_image": "shopify:\/\/shop_images\/3M1A6579_4583c37b-9603-4036-a323-471d7c659555.jpg",
@@ -642,18 +643,18 @@
   "order": [
     "f988dbb3-2ba5-4450-9c43-6591f4881771",
     "5bc239f1-a663-47d7-9c74-09d4a813099a",
-    "6c2cfd6c-1e05-4985-a75b-a39edb3ca366",
     "1aaeee5d-8c31-4bf4-9684-96dd3c0c4e70",
     "6fe92416-986d-40b8-a6d7-fc38f69ed6fb",
     "928eeefe-93a8-4f18-92b4-1d8adad784e0",
     "8e95d30b-2ba7-460f-b112-dd3fc40c77f0",
     "e08d29b6-797c-4843-bfbe-39391baf0994",
+    "6c2cfd6c-1e05-4985-a75b-a39edb3ca366",
     "8ed25c8b-0b7b-4c95-81a7-3425aeeed94d",
     "5afd17c9-71d6-4468-9912-580f32f4de5d",
+    "dc45118a-6cf3-4f1b-9dcd-7c4e0fc35cc7",
     "0549657b-0d08-46e3-8ece-181cde92aeb5",
     "313c8ef7-79e2-4eb4-80c1-b905631165c5",
     "c9ee862c-4e84-4ef4-b239-ca4ebe572531",
-    "dc45118a-6cf3-4f1b-9dcd-7c4e0fc35cc7",
     "83e1ac7a-591f-4f13-8654-a6e1f8167f2d",
     "6083cabf-8037-496f-886e-8bca64809cf7",
     "2c18e891-0eab-499c-98d9-49c5d8ca4ff0",
