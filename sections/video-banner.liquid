@@ -14,11 +14,27 @@
 <div class="color-{{- section.settings.color_scheme }} p-relative {% render 'animation-loader', section: section %}" data-ui-component="Video Banner Section" style="--mh-xs:{{ section.settings.height_mobile }}vh;--mh-md:{{ section.settings.height_desktop }}vh" role="region" aria-labelledby="sectionHeading-{{ section.id | md5 | truncate: 12, "" }}">
   <div class="sht-mask p-absolute w-100 h-100 o-hidden" style="--overlay: {{ section.settings.image_overlay_opacity }}; {{ overlay_color }}">
     <sht-load-video class="d-block w-100 h-100 js-animate anm anm-zoomOut" data-video-type="{{ video_type }}" data-video-id="{{ section.settings.video_url.id }}">
-    {% if section.settings.video_hosted %}
-      {% capture local_video %}
-        {{- section.settings.video_hosted | video_tag: autoplay: true, controls: false, loop: true, preload: 'none', class: 'video-local of-cover w-100v center-middle p-absolute mih' -}}
-      {% endcapture %}
-      {{ local_video | replace: '<source src="', '<source data-src="' }}
+      {% if section.settings.video_hosted %}
+        {% liquid
+          assign local_video_classes = ""
+
+          if section.settings.video_hosted_mobile
+            assign local_video_classes = 'video-local show-desktop of-cover w-100v center-middle p-absolute mih'
+          else
+            assign local_video_classes = 'video-local of-cover w-100v center-middle p-absolute mih'
+          endif
+        %}
+        {% capture local_video %}
+          {{- section.settings.video_hosted | video_tag: autoplay: true, controls: false, loop: true, preload: 'none', class: local_video_classes -}}
+        {% endcapture %}
+        {{ local_video | replace: '<source src="', '<source data-src="' }}
+
+        {% if section.settings.video_hosted_mobile %}
+          {% capture local_video_mobile %}
+            {{- section.settings.video_hosted_mobile | video_tag: autoplay: true, controls: false, loop: true, preload: 'none', class: 'video-local show-mobile of-cover w-100v center-middle p-absolute mih' -}}
+          {% endcapture %}
+          {{ local_video_mobile }}
+        {% endif %}
       {% else %}
         <iframe tabindex="-1" title="{{ section.settings.video_url.type }}" class="video-iframe w-100v center-middle p-absolute mih miw" allow="autoplay; encrypted-media"
           data-src="
@@ -170,6 +186,12 @@
       "type": "video",
       "id": "video_hosted",
       "label": "t:general.settings.headers.header_hosted_video.content",
+      "info": "t:general.settings.video_hosted.info"
+    },
+    {
+      "type": "video",
+      "id": "video_hosted_mobile",
+      "label": "t:general.settings.headers.header_hosted_video_mobile.content",
       "info": "t:general.settings.video_hosted.info"
     },
     {
