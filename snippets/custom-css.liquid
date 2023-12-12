@@ -70,6 +70,10 @@
         padding-top: calc(var(--spacing) * 4);
     }
 
+    .footer__nav__list {
+        grid-template-columns: repeat(3, 1fr);
+    }
+
     @media (max-width: 768px) {
         .product__info.product__title h1 {
             font-size: var(--heading-4);
@@ -94,6 +98,10 @@
 
         .show-mobile {
             display: block;
+        }
+
+        .footer__nav__list {
+            grid-template-columns: 1fr;
         }
     }
 </style>

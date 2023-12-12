@@ -7,42 +7,60 @@
       "blocks": {
         "6e9066c6-7dd7-4c42-9808-42596c1dccf2": {
           "type": "menu",
-          "settings": { "heading": "Our Collections", "menu": "footer" }
+          "settings": {
+            "heading": "Our Collections",
+            "menu": "footer"
+          }
         },
         "ec989fd6-ab14-4770-a3ff-8d384d106e67": {
           "type": "menu",
-          "settings": { "heading": "Help", "menu": "help" }
+          "settings": {
+            "heading": "Help",
+            "menu": "help"
+          }
+        },
+        "efdeab27-f506-4c90-9b63-254060188ac8": {
+          "type": "menu",
+          "settings": {
+            "heading": "Shop by category",
+            "menu": "shop"
+          }
         }
       },
       "block_order": [
         "6e9066c6-7dd7-4c42-9808-42596c1dccf2",
-        "ec989fd6-ab14-4770-a3ff-8d384d106e67"
+        "ec989fd6-ab14-4770-a3ff-8d384d106e67",
+        "efdeab27-f506-4c90-9b63-254060188ac8"
       ],
-      "custom_css": [],
+      "custom_css": [
+
+      ],
       "settings": {
         "color_scheme": "schema-1",
-        "enable_back_to_top": true,
-        "enable_collapse": false,
+        "enable_back_to_top": false,
+        "enable_collapse": true,
         "remove_padding_top": false,
         "remove_padding_bottom": false,
-        "logo": "shopify://shop_images/logo_final_1.png",
+        "logo": "shopify:\/\/shop_images\/logo_final_1.png",
         "logo_width": 140,
         "heading": "",
         "description": "",
         "contact_heading": "",
-        "show_info": true,
+        "show_info": false,
         "enable_newsletter": false,
         "newsletter_heading": "",
         "newsletter_description": "",
         "newsletter_color_background": "#000000",
         "newsletter_color": "#ffffff",
-        "show_currency_selector": true,
+        "show_currency_selector": false,
         "show_language_selector": false,
         "social_heading": "",
         "show_socical_icons": false,
-        "show_payment_methods": true
+        "show_payment_methods": false
       }
     }
   },
-  "order": ["footer"]
+  "order": [
+    "footer"
+  ]
 }
